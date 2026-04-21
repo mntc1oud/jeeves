@@ -437,7 +437,7 @@ export class Brain {
         await ctx.delMsg(userMsgId!);
 
         // well we need to check a date of the message just to verify, if it's truncated or not
-        // it would be not so good, if we had many users, but this problem can be solved by
+        // this aproach would be not so good, if we had many users, but this problem can be solved by
         // retrieving and saving state for each user id
         if (brain.lastMessageDate && brain.lastMessageDate == userMsgDate) {
           brain.unprocessed[brain.unprocessed.length - 1] =
@@ -446,7 +446,7 @@ export class Brain {
           brain.lastMessageDate = userMsgDate;
           brain.unprocessed.push(userMsg);
 
-          // we have this here because if we short the large job description to 128 characters and
+          // we have this here because if we narrow the large job description to 128 characters and
           // we add eventually the second of part and rerun formatter, output text doesn't change
           // and Telegram throws error on edit because of that
           await ctx.edit(...brain.listUnprocessedData(), brain.lastMessageId);
