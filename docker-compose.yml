@@ -1,0 +1,23 @@
+name: workers
+
+# Well using compose is a bit overkill in this small project
+# but it combines two large commands, build and run, in one and simplifies
+# further modification of those processes, so why not
+
+services:
+  plushkin:
+    build:
+      context: ./workers/plushkin
+      additional_contexts:
+        - dist=./dist/
+    security_opt:
+      - seccomp=./workers/plushkin/firefox/seccomp.json
+    ports:
+      - "8080:8080"
+      - "9222:9222"
+    environment:
+      - PROD=false
+    volumes:
+      - ./dist/plushkin/index.js:/home/plushkin/index.js
+      - ./workers/plushkin/workerd/config.capnp:/home/plushkin/config.capnp
+    env_file: .env

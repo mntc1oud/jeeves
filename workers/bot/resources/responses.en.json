@@ -1,0 +1,38 @@
+{
+  "youGotNewMail": "New correspondence has arrived, sir.",
+  "unprocessedJobs": {
+    "message": {
+      "start": "",
+      "end": "_Add to notes?_"
+    },
+    "newMail": {
+      "start": "You have a new message",
+      "end": "_Add to notes?_"
+    },
+    "error": {
+      "start": "Something went wrong",
+      "end": "_Add to notes, again?_"
+    },
+    "status": {
+      "ok": "Ok",
+      "cantGetIt": "Can't get it",
+      "inProgress": "in progress"
+    },
+    "buttons": {
+      "letsGo": "Let's go",
+      "cancel": "Forget it"
+    }
+  },
+  "processingJobsInProgress": "Let me take a look and add it to my notes...",
+  "correspondence": {
+    "noReply": "No reply",
+    "invited": "They want to continue talking",
+    "rejected": "Rejection letters"
+  },
+  "greeting": {
+    "buttons": {
+      "on": "on",
+      "off": "off"
+    }
+  }
+}

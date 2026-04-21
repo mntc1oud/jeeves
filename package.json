@@ -1,0 +1,41 @@
+{
+  "name": "jeeves-brain",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "bot": "vite",
+    "others": "pnpm build && docker compose up",
+    "plug:tg": "node tools/tg.local.ts",
+    "build": "tsc -b && vite build",
+    "preview": "pnpm run build && vite preview",
+    "secrets:up": "wrangler secret bulk .env",
+    "deploy": "pnpm run build && wrangler deploy",
+    "gen:types": "wrangler types --strict-vars false",
+    "db": "wrangler d1",
+    "db:migrate": "drizzle-kit generate && wrangler d1 migrations apply bot_memory",
+    "test": "vitest --no-file-parallelism",
+    "dev:embed": "node tools/get.embed.model.ts && llama-server -m tools/embeddinggemma-300M-Q8_0_sx.gguf --embeddings -c 2048 -ngl 99 -ub 16820"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "grammy": "^1.42.0",
+    "postal-mime": "^2.7.4",
+    "preact": "^10.29.1",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.32.3",
+    "@cloudflare/vitest-pool-workers": "^0.13.5",
+    "@preact/preset-vite": "^2.10.5",
+    "@types/node": "^25.6.0",
+    "dotenv": "^17.4.2",
+    "drizzle-kit": "^0.31.10",
+    "globals": "^16.5.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.3.2",
+    "vitest": "~4.1.4",
+    "wrangler": "^4.83.0"
+  },
+  "packageManager": "pnpm@10.28.2+sha512.41872f037ad22f7348e3b1debbaf7e867cfd448f2726d9cf74c08f19507c31d2c8e7a11525b983febc2df640b5438dee6023ebb1f84ed43cc2d654d2bc326264"
+}

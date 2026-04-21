@@ -1,0 +1,535 @@
+Job,Text
+"(Junior)Frontend Developer (Web3)","
+REQUIREMENTS:
+- Recent computer science graduate or coding bootcamp graduate
+- Solid foundation in React and JavaScript/TypeScript
+- Basic understanding of blockchain concepts (wallets, transactions, gas fees)
+- Familiarity with responsive design and mobile-first development
+- Git and GitHub experience
+- Understanding of REST APIs and async operations
+- Problem-solving skills and curiosity about Web3
+- Strong communication and willingness to learn
+- No prior professional crypto experience required—enthusiasm is key"
+"(Senior)AI-Driven Software Engineer (Web3 Defi)","
+Requirements
+Full-stack development experience in production systems
+Experience with one or more DBMS or Datastore systems
+Experience on *Nix-based systems
+Experience with AWS
+Solid understanding of standard web technologies (HTML, CSS, JS)
+Shipped software where AI-Coding tools generated the majority of the code
+Comfortable understanding, debugging and reviewing code you did not write
+Strong systems thinking and failure-mode analysis
+High agency and low ego toward “ownership of code”
+Team-oriented attitude and familiarity and passion for working in distributed teams and in remote working environments
+Strong ambition and a growth mindset
+Candid and clear communication, with strong interpersonal and relationship-building skills"
+"(Senior)Frontend Engineer (Fintech?)","
+As a Senior Frontend Engineer, you will:
+
+Lead initiatives to improve consistency in the UI/UX of backoffice
+Collaborate with Backoffice Platform to create and improve features to support our users
+Analyze usage metrics and adoption in order to inform future product decisions
+Come opinionated but open to every meeting 
+Mentor and guide more junior frontend developers within the organization
+
+To put things into context, we currently have backoffice permissioning overhaul and external partner access on our roadmap. You can expect to work with the following tech stack and tools:
+
+Modern JavaScript, CSS and Web APIs
+Component-based, declarative UIs (we use React)
+CSS-in-JS (we use styled-components)
+Linting and testing frameworks (we use Jest + RTL and Vitest)
+Static types (we use TypeScript)
+Data fetching and mutations (we use tRPC, SWR)
+
+What you bring
+
+You’ll thrive in this role if you have:
+
+A solid understanding of react, typescript, and working with design systems.
+Strong communication skills and the ability to collaborate with stakeholders and engineers.
+A passion for solving problems in creative and innovative ways.
+Excellent time management and the ability to prioritize tasks effectively.
+Experience with grafana or a similar observability tool.
+The willingness to learn and teach others
+A background in B2B SAAS or FinTech
+
+Why is this role a good fit for you
+
+This role is a good fit for you if:
+
+Like working in an autonomous and trusted team
+Collaborate well with non-engineering users and engineers alike regardless of their specific role or level
+Stay engaged
+Love to learn
+
+This role is not a good fit for you if:
+
+Need everything documented in order to work
+Lack initiative unless you’re told exactly what to work on
+Gatekeep or enjoy working in a silo"
+"(Senior)Software Engineer (Consulting?)","
+As a Senior Software Engineer at Emergn, you’ll help us shape Emergn’s exciting future and play an important role in our growth. 
+We want you to:
+Maintain, support, and further develop existing HCL Notes/Domino-based systems
+Work with multiple core business applications
+Fix bugs, implement new features, and update workflows
+Prepare and deploy new system releases (development, testing, production)
+Integrate existing systems with other platforms and services
+Act as the main technical contact for the client
+Maintain technical documentation and knowledge base
+This job might be for you if you have:
+Strong hands-on experience with HCL Notes / Domino (IBM / Lotus Notes)
+Experience maintaining legacy systems
+System analysis and system integration experience
+Basic front-end experience (JavaScript, HTML/DHTML, CSS, Ajax)
+Ability to work independently and take ownership of systems
+Proficiency in English and Latvian (written and verbal)"
+"(Senior)Full Stack Engineer (Node.js)","Company Description:
+
+We are looking for a Senior Full Stack Engineer to join one of our teams and help us build great products for our clients.
+
+Qualifications:
+5+ years of professional experience with JavaScript, including modern frameworks and tools
+Expert proficiency in Node.js for scalable back-end services and APIs
+Expertise in ReactJS for modern, responsive front-end interfaces
+Experience designing and implementing Data APIs for efficient workflows
+Familiarity with VectorDB or similar vector databases for AI/ML applications
+Hands-on experience with AWS or GCP, including deployment and management
+Strong knowledge of RESTful APIs, microservices, and database systems (SQL/NoSQL)
+Upper-Intermediate level of spoken and written English"
+"(Middle)Golang Developer (Consulting?)","
+Ruby Labs is looking for a strong Middle Golang Developer who will be responsible for building scalable and high-performing backend services. Develop, test, maintain, and improve our billing system. You will be a part of a cross-functional team, including engineers and product managers, focused on delivering results in a consistent, sustainable way. The successful candidate will have a passion for innovation, staying up-to-date with emerging technologies, and excellent communication and collaboration skills to work in a cross-functional team in a remote environment.
+
+Qualifications
+
+Experience: Minimum of 2-3 years of professional experience in development as a Golang developer, with a proven track record of delivering scalable and robust solutions.
+
+Golang: Expertise in Golang, with a deep understanding of its concurrency model, frameworks, and best practices.
+
+Microservices: Experience in designing, developing, and maintaining microservices architectures.
+
+Database Skills: Proficient in designing and optimizing databases, particularly with Postgres.
+
+Collaboration: Excellent communication skills and the ability to work collaboratively in a team environment.
+
+Problem-Solving: Strong problem-solving skills and the ability to think critically about complex technical challenges.
+
+Nice to have
+
+Billing Systems: Previous involvement in the development and maintenance of billing systems.
+
+Cloud solutions: Experience using AWS services.
+
+Database Skills: Experience using NoSQL databases."
+"(Mid/Senior)Python Engineer","About the role:
+
+We’re looking for a Mid/Senior Software Engineer to join our client’s dynamic team and help build innovative, high-impact products. You’ll be curious, passionate, and driven, with a genuine enthusiasm for problem-solving and building scalable, resilient, and fault-tolerant systems.
+
+You’ll have the following skills and experience:
+
+Proven experience as a Python Backend Engineer, with hands-on experience in frameworks and tools such as Django, FastAPI, SQLAlchemy, and pytest.
+
+Experience setting up and managing CI/CD pipelines, including relevant tools and best practices.
+
+Familiarity with cloud platforms (AWS, Azure, GCP), containerisation technologies (Docker, Kubernetes), and orchestration platforms (e.g., AWS ECS).
+
+Knowledge of multiple protocols such as HTTP, GraphQL, and gRPC.
+
+Experience with databases (relational and schema-less), including PostgreSQL, Neo4j, and Snowflake.
+
+Strong focus on testing and quality, from unit tests to security, customer journey, and accessibility.
+
+Building high-performance, scalable applications and familiarity with performance monitoring tools.
+
+ 
+You should apply if you are:
+
+Self-motivated and proactive, always looking to grow and improve.
+
+Excellent communicator, able to explain technical ideas clearly to both technical and non-technical stakeholders.
+
+Detail-oriented and analytical, balancing innovation with practical technology choices.
+
+Collaborative and team-oriented, thriving in a dynamic environment.
+
+A strong advocate for diversity, fairness, and inclusion.
+
+Based in Portugal."
+"(Undefined)Frontend Web Developer (Percona)","Percona is looking for a Frontend Web Developer (Observability) to join its Open Source Software Development team.
+
+Your Experience
+
+Good command of TypeScript and React
+
+Experience with unit and integration testing
+
+Familiarity with build tools (vite, webpack, etc.)
+
+Knowledge of CSS frameworks
+
+Various charting libs (d3, Highcharts or similar)
+
+Good with Math and Statistics
+
+Agile practices (deliver working code regularly)
+
+UI/UX theory and practice
+
+Git and GitHub
+
+Docker or Podman experience
+
+Excellent written and verbal English
+
+What Will Make You Stand Out
+
+Having Grafana or Prometheus experience will be a huge plus
+
+Experience building web apps
+
+Experience with container orchestration systems such as Kubernetes or OpenShift
+
+Database experience in any of MongoDB, MySQL, PostgreSQL or Valkey/Redis"
+"(Senior)Frontend Engineer","We are seeking an experienced Senior Frontend Engineer who specializes in designing, building, and operating high-performance, user-centric web applications. In this role, you will be a key contributor to our core platform, making critical architectural decisions and mentoring other engineers. You'll be responsible for ensuring our user interfaces are intuitive, responsive, and visually appealing, and that our entire ecosystem provides a seamless user experience. If you are passionate about modern JavaScript frameworks, UI/UX best practices, and the patterns that make web applications work, this is the role for you.
+
+
+Required Skills:
+
+5+ years of professional experience in front-end software development.
+Deep, hands-on experience with designing and building complex web applications and single-page applications (SPAs).
+Proven expertise with at least one major JavaScript framework, such as React, Angular, or Vue.js.
+Strong proficiency in JavaScript/TypeScript, HTML5, and CSS3, with a solid understanding of responsive design and cross-browser compatibility.
+Experience with state management libraries (e.g., Redux, MobX, NgRx) and asynchronous programming.
+Practical experience with front-end testing frameworks (e.g., Jest, React Testing Library, Cypress)."
+"(Senior)Frontend Engineer (Web3 Defi)","
+
+REQUIREMENTS:
+- 5+ years professional frontend experience
+- 3+ years working with blockchain/Web3 projects
+- Expert-level knowledge of React, TypeScript, and Web3.js
+- Experience with wallet integration and smart contract interaction patterns
+- Strong understanding of DeFi protocols and financial instruments
+- Knowledge of security best practices in blockchain applications
+- Excellent communication and leadership skills"
+"(Junior)Frontend Developer (E-Commerce Startup)","TrendCart is a fast-growing fashion e-commerce platform looking for a Junior Frontend Developer to join our core product team. You'll build responsive product pages, shopping carts, and checkout flows using React and Next.js. Work alongside senior engineers in an inclusive environment focused on learning and growth. You'll gain hands-on experience with modern CSS frameworks, state management, API integration, and testing methodologies. You'll participate in code reviews, attend weekly tech talks, and have a dedicated mentor.
+
+REQUIREMENTS:
+- Completed coding bootcamp or Bachelor's degree in Computer Science or related field
+- Portfolio with 2-3 completed web projects (GitHub links required)
+- Solid understanding of HTML, CSS, and JavaScript fundamentals
+- Familiarity with React basics and Git version control
+- Strong problem-solving mindset and willingness to learn
+- Good communication skills and collaborative attitude
+- No prior professional experience required"
+"(Middle)Frontend Specialist (FinTech Company)","NeoBank Solutions is transforming personal finance with our mobile-first banking app. We're hiring a UI/UX Frontend Specialist to translate design systems into pixel-perfect implementations. You'll work closely with Figma designs, implement accessibility standards, and collaborate with product, design, and backend teams to ship features users love. Responsibilities include component development, performance optimization, accessibility compliance, and establishing best practices for UI implementation.
+
+REQUIREMENTS:
+- 2-3 years of frontend development experience
+- Proven experience building financial or enterprise applications
+- Expert knowledge of Vue.js and component-based architecture
+- Proficiency with Tailwind CSS and CSS-in-JS solutions
+- Experience with Jest or similar testing frameworks
+- Strong understanding of WCAG 2.1 accessibility standards
+- Knowledge of responsive design and mobile-first approach
+- Familiarity with design system principles
+- Experience with REST APIs"
+"(Middle)Frontend Developer","LocalHub is building community connection tools and we're hiring a Frontend Developer for our web platform. You'll develop and maintain features using modern JavaScript frameworks, write clean and maintainable code, collaborate with backend engineers, and participate in code reviews. Help us create intuitive interfaces that serve millions of local interactions. We value curiosity, problem-solving ability, and collaborative spirit across our distributed team.
+
+REQUIREMENTS:
+- 3+ years of professional frontend development experience
+- Strong proficiency in JavaScript and at least one modern framework (React, Vue, or Angular)
+- Experience with responsive design and cross-browser compatibility
+- Comfortable with Git and collaborative development workflows
+- Understanding of RESTful APIs and async programming
+- Experience with testing frameworks (Jest, Mocha, or similar)
+- Strong attention to detail and commitment to code quality
+- Self-directed with ability to work independently and ask for help when needed"
+"(Junior)React Developer","HomeFlow Technologies is revolutionizing real estate with AI-powered property analytics. We're seeking a Junior React Developer to build our investor dashboard and property listing platform. You'll work with Next.js, TypeScript, and TailwindCSS to create data visualization components, real-time property feeds, and investor tools. Get hands-on mentorship from our senior engineering team while building features that impact thousands of real estate professionals.
+
+REQUIREMENTS:
+- Recent computer science graduate or coding bootcamp graduate
+- Solid understanding of React fundamentals and hooks
+- Basic knowledge of TypeScript
+- Familiarity with HTML, CSS, and responsive design
+- Git and GitHub experience
+- Problem-solving skills and ability to learn quickly
+- Passion for clean, readable code
+- Strong communication and team collaboration skills
+- No prior professional experience necessary—we value potential and eagerness to learn"
+"(Senior)Product Engineer","
+We’re looking for a Senior Product Engineer to help shape the future of Slite and Super. As part of a small, fast-moving, fully remote team, you’ll ship features daily, work closely with design and product, and push prototypes into production so customers can try them immediately. We expect strong product thinking, solid engineering fundamentals, and the ability to turn ambiguous problems into polished, reliable experiences.
+
+Tech
+
+Slite’s editor is built on Slate.js with custom components and behaviours, real-time collaboration via operational transformation, and storage in MongoDB.
+The Super engine runs on LangGraph with custom tools and continuous indexing through our own connector package.
+Backend: Node.js, TypeScript, Datadog, Google Cloud, Kubernetes, Postgres, Redis.
+Frontend: React, TypeScript, internal component library, class-based CSS, and Storybook for component isolation.
+Linear, Slite, Slack, and GitHub."
+"(Middle?)Full Stack Engineer","
+The bits and bytes that you’ll bring to your new team:
+
+You will develop high-quality, responsive web applications using TypeScript, Javascript, React, Express. Experience with NestJS, Vite, and Next.js is a plus.
+
+You will design and implement server-side APIs, data models, and business logic using mainly Express framework
+
+You will create client-side function-based React components, hooks, stories, and tests to interact with your server-side work
+
+You will create and optimize database schemas, queries, and interactions with Postgres.
+
+You will build reusable and modular components on both the front and back end that promote code reusability, maintainability, and scalability.
+
+You will perform thorough testing, debugging, and troubleshooting of applications to ensure high-quality deliverables.
+
+You will stay updated with emerging web development trends, frameworks, and best practices, and recommend improvements to enhance development processes.
+
+You will participate in code reviews and provide constructive feedback to team members to maintain code quality standards.
+
+You will communicate project progress, challenges, and solutions effectively to team members and stakeholders.
+
+Contribute to the continuous improvement of development processes, methodologies, and tools.
+You're the Engineer we're looking for if you:
+
+At least 4 years of Full-Stack experience, with a focus on TypeScript development.
+
+Expert in the art of designing, coding, testing, and maintaining applications using the tech listed above.
+
+Thrive in a collaborative, remote-first work culture where teamwork and camaraderie are key.
+
+Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.
+
+Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.
+
+Are passionate about solving customer problems with your coding superpowers, and are a natural at troubleshooting issues.
+
+Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.
+
+Obsess over details, and always keep the customer experience top of mind.
+
+Extra brownie points if you:
+
+Have experience with SaaS products running 24/7 on a major cloud vendor.
+
+Solid understanding of RESTful APIs, microservices architecture, and asynchronous programming.
+
+Experience with testing frameworks (Jest, Mocha, Chai, Storybook, React Testing Library) and automated testing methodologies (Cypress).
+
+Knowledge of containerization technologies (Docker, Kubernetes)"
+"(Middle)Frontend Engineer (Casino)","
+Our value to you:
+
+Flexible hours and remote-first mode,
+Competitive compensation,
+Complete Hardware/Software setup – anything you need for work,
+Open-door culture, transparent communication, and top management at a handshake distance,
+Health insurance, vacation, sick leaves, holidays, paid maternity/paternity leave,
+Access to our learning & development center: workshops, webinars, training platform, and edutainment events,
+Virtual team buildings and social activities.
+
+If you feel like you’re the perfect match for this role, drop us your CV! 
+
+There are no limitations, no barriers when the right people are on your way — apply for the vacancy and succeed with us!"
+"Lead Product Engineer","Superside is hiring a Lead Product Engineer to build AI-powered tools that transform how creative work is produced at scale. On our AI Consulting team, you’ll design, prototype, and ship automation solutions that embed AI directly into real creative workflows for enterprise customers.
+
+What you’ll need to succeed
+
+6+ years of experience building enterprise-grade software in fast-paced environments such as startups, scaleups, or consulting.
+Strong full-stack engineering background, with deep experience in TypeScript; React and/or Python experience is a plus.
+Hands-on experience with AWS services such as S3, RDS, and Lambda.
+Proven experience integrating AI APIs (e.g., OpenAI, Fal.ai) into real production systems.
+Ability to move confidently from experimentation to production, managing trade-offs and constraints.
+Experience integrating with creative tools (Figma APIs, Adobe Suite) is a strong advantage.
+Clear English communication skills and comfort working in customer-facing, cross-functional teams.
+Curiosity and adaptability, with a strong drive to build AI-powered products that reshape creative workflows."
+"(Middle)Frontend Engineer (Miners/Blockchain)","What awaits you here:
+As a Pool Frontend Developer, you will help build and evolve Braiins Pool web applications used by miners and operators worldwide. You’ll work in a product team that values clean UI, strong performance, and reliable data visualization. AI tools are expected to be part of your daily workflow, used responsibly and effectively."
+"(Undefined)DevOps Engineer","
+Requirements
+
+🧭 What makes you a great match:
+4+ years of experience in DevOps / Infrastructure / SRE
+Hands-on Cloudflare experience (WAF, Rules, Workers)
+Strong Linux (Ubuntu/Debian) and networking fundamentals
+Terraform and Ansible in production
+CI/CD: GitLab CI, Jenkins
+Monitoring: Prometheus, Grafana
+Logging: OpenSearch / Elasticsearch
+Scripting: Bash, Python
+Git workflow best practices
+Admin-level understanding of PostgreSQL, MySQL, MongoDB
+English: Upper-Intermediate+
+Nice to Have:
+Docker / Kubernetes / Helm
+Trino (Presto), Hive Metastore
+Hadoop ecosystem or migrations to S3-compatible storage
+Big Data infrastructure exposure"
+"(Junior/Medior)Software Engineer (Full Stack, Junior/Medior)","Payflip is looking for a Junior/Medior Software Engineer to join our Product team. What you’ll bring is a baseline skill in fullstack software development, but what matters most is your eagerness to learn and grow with Payflip.
+
+🌟 Our Product team
+
+We're building our Product team at Payflip for the long run, and are looking for entry level engineers who want to play a role in growing our salary platform, whilst also growing with Payflip themselves.
+
+Our current Product team consists of multiple squads that autonomously own the full lifecycle of the product, pushing it from discovery to production. You'll work together with other experienced engineers, PMs, and the CTO to deliver on an exciting product roadmap.
+
+The tech stack at Payflip to achieve this consists of multiple modern technologies. Where core components in our stack are:
+
+React
+
+Node.js (NestJS)
+
+GraphQL
+
+MongoDB
+
+🧑‍💻 About You
+
+Excited already? You'd fit in great if most of this sounds like you:
+
+Proficiency with at least one of our core technologies
+
+Curiosity to explore tech outside of your current comfort zone, setting out a learning path to master it and communicating it to the people coaching & mentoring you.
+
+Passionate about building products, shipping qualitative features to production with confidence.
+
+High intrinsic motivation to learn from others what it takes to become the best
+
+Self-starting and entrepreneurial, kickstarting yourself and pulling in others at the right time
+
+Even if your experience is light, we'd like to learn what makes you hungry to build and what you did in the past (side-projects, experiments, open source contributions, courses)
+
+Fluent in English."
+"(Junior)Python Developer","
+Requirements
+Basic knowledge of Python or 1 year in a role focused on Python backend development (perfectly with Django framework)
+Higher education (3rd-4th year students) in the field of Computer Science
+Comfortable working with Linux
+Knowledge of Databases (PostgreSQL, Clickhouse, NoSQL databases)
+Ready to work with the team distributed among different timezones
+Strong mathematical background and Software Engineering is your true passion
+Curious and always learning upcoming best practices
+Nice to have
+Experience in high-load/BigData, and REST projects
+Knowledge and experience in implementation of algorithms and design patterns
+Knowledge of such conceptions as OOP, Solid, DDD
+Experience with PostgreSQL, Redis, RabbitMQ, Amazon Web Services, Docker, and Kubernetes.
+Experience with asyncio, or similar frameworks
+Ability to work in a Continuous Integration environment
+What We Offer
+Fully remote position (with flexible working hours)
+Strong product/market fit: marketing data product for US-based enterprises
+20 wokring days of PTO per year
+Optional relocation to Latin America after successful completion of the probationary period
+Extremely fun & open startup environment
+Professional development reimbursement
+Chance to get the company's stock options in the future"
+"(Senior/Staff)Frontend Engineer (+5 years)","
+
+What You’ll Bring
+5+ years of professional experience developing, testing, and debugging Javascript/TypeScript
+Your work or portfolio visible online (e.g. portfolio site, CodePen account, or GitHub)
+At least one year of experience with a reactive framework such as React, Angular or VueJS
+Visual design experience and the ability to create visually appealing interfaces
+Ability to implement designs in mobile-responsive CSS and experience with a CSS preprocessor such as SCSS
+Experience creating design systems and building reusable web components
+Strong computer science fundamentals (data structures, REST, asynchronous logic)
+Bonus Skills
+Experience creating and maintaining design systems in Figma
+VueJS  and TailwindCSS experience
+Experience with applying accessibility (a11y) standards
+What You’ll Get 
+26 paid days off annually, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares
+Paid parental, maternity, and paternity leave
+Fully covered family medical plan, dental, rehab, and vaccinations
+Life, critical illness, and disability insurance
+Employer pension contribution via PPK
+Monthly Edenred allowance of 450 PLN for meals
+MultiSport card fully covered by Veeam, giving access to sports facilities nationwide
+Up to 12 free therapy sessions annually, plus legal and financial advice
+Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops and learning events like our annual Global Day of Learning
+
+Please note: If the applicant is permanently present outside of Poland, Veeam reserves the right to refuse to consider the application for a job. Remote job is only possible in case the employee is located in Poland."
+"(Junior)Front-End Developer (Vue.js)","
+We are looking for a Front-End Developer. You will work with a professional and experienced team on an exciting and complex project using Vue 3, Vite, and modern web technologies. The project follows Clean Architecture principles and includes CI/CD pipelines, Sentry for error tracking, automated testing (Unit and Integration), and Storybook for component documentation and development. You will have the opportunity to shape front-end architecture, improve performance, and collaborate closely with cross-functional teams to deliver a seamless user experience. About the product: It is a global streaming platform where users can find interesting streamers, send messages, and chat via video. Our mission is to help people overcome loneliness and boredom by creating a space for real-time interaction and positive emotions. With high-quality video streaming, 24/7 live events, and seamless online chats, we ensure a top-notch user experience without any ads. Our team is growing, with exciting opportunities to influence the product and tackle complex challenges, including AI integration and data-driven tasks. Our goal is to reach the top 5 streaming products
+
+It’s all about you
+
+1+  year of experience in front-end development 
+Proficiency in HTML5, CSS3, JavaScript
+Hands-on experience with Vue 3, including Router and Pinia, REST API
+Experience writing and maintaining unit and integration tests
+Excellent collaboration and communication abilities
+Ability to adapt and learn quickly in a dynamic environment
+Intermediate English or higher"
+"(Junior)Frontend Developer (React.js)","
+Required skills: 1 year of commercial experience within web development, understanding of basic JS concepts, TypeScript, basic experience with React.js, knowledge hungry
+Offer: B2B/UZL, paid days off, 100% remote (or hybrid/onsite - as you prefer), Polish time zone, flexible hours, full-time position, long-term contract, Scrum Teams
+Perks and Benefits: 750 PLN / quarter for health insurance and sports, Mentoring Program, individual Career Path, and more
+Tools you'll use: Apple MacBook Pro, Slack, GSuite, GitHub, Jira, Coda, Miro
+
+
+Your future tasks and duties:
+
+Develop and maintain React.js applications
+Implement responsive interfaces with attention to design details and user experience
+Write clean, maintainable code following team standards
+Participate in code reviews - giving and receiving feedback constructively
+Collaborate with designers, developers, QA, and product owners to deliver features
+Document your work and contribute to team knowledge base
+Continuously expand technical skills with mentor support
+
+
+About you - Tech skills & Experience:
+
+1 year of commercial experience in web development
+Strong JavaScript fundamentals and TypeScript knowledge
+Hands-on experience with React.js ecosystem (hooks, state management)
+REST API integration and basic build tools configuration
+Uses AI coding assistants for learning, exploration, and productivity while critically evaluating outputs
+Open-minded to new challenges (TypeScript, React frameworks like Next.js or Remix, etc.) with company coherency in mind
+
+
+About you - Soft skills:
+
+Genuine interest in understanding user needs and the business value of your work
+Proactive in communication - shares progress and asks for help when needed
+Embraces feedback as learning opportunities and comfortable admitting knowledge gaps
+Open-minded about learning new frameworks and technologies
+Interest in backend technologies and aspiration towards fullstack development
+Comfortable working in Agile/Scrum environments
+English B2+ for international collaboration
+Polish C1 for daily team communication
+Ready to work closely with mentors while gradually building independence"
+"(Founding)Frontend Software Engineer","
+
+
+This is a key role with direct impact on the product, customers, and team execution speed.
+
+Profile
+Experience & background
+
+3 to 8 years of experience in frontend development
+
+Experience in a product-driven startup environment
+
+Comfortable operating in fast-moving, not-yet-fully-structured contexts
+
+
+Must-have technical skills
+
+Strong proficiency in TypeScript
+
+Solid experience with React and Next.js (routing ideally React Router framework, server-side rendering, delivery-oriented mindset)
+
+Knowledge of modern frontend tools: Tailwind, Vite, Playwright (or equivalent testing tools)
+
+Ability to design and build pages and flows autonomously, translating product intent into interfaces
+
+Frontend-focused or full-stack profiles welcome, as long as small backend tasks can be handled if needed
+
+
+Nice to have
+
+Founding engineer or first frontend hire experience
+
+Experience contributing to product strategy or design decisions in a small, fast-moving team"

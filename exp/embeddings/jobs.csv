@@ -1,0 +1,1394 @@
+Job,Text
+"(Junior)Frontend Developer (Web3)","CryptoWallet Pro is building the most intuitive non-custodial cryptocurrency wallet for everyday users. We're seeking a Junior Frontend Developer to help us build the next generation of wallet interfaces. You'll work with React, TypeScript, and ethers.js to create smooth, secure wallet experiences including send/receive flows, transaction history, and token swapping features. Join our small, passionate team dedicated to making blockchain accessible to millions.
+
+REQUIREMENTS:
+- Recent computer science graduate or coding bootcamp graduate
+- Solid foundation in React and JavaScript/TypeScript
+- Basic understanding of blockchain concepts (wallets, transactions, gas fees)
+- Familiarity with responsive design and mobile-first development
+- Git and GitHub experience
+- Understanding of REST APIs and async operations
+- Problem-solving skills and curiosity about Web3
+- Strong communication and willingness to learn
+- No prior professional crypto experience required—enthusiasm is key
+
+BENEFITS:
+- Salary: $62,000-$75,000
+- Equity package (0.05-0.1% options)
+- Comprehensive health, dental, vision insurance
+- Home office setup budget ($1,500)
+- Company laptop (MacBook or Linux machine of choice)
+- Access to premium blockchain development tools and APIs
+- Dedicated senior engineer mentor (15+ hours/week)
+- 20 days PTO + 4 sick days + 3 personal days
+- Fully remote, flexible work schedule
+- $2,000 annual crypto/education budget
+- Weekly Web3 learning sessions and workshops
+- Monthly team gatherings (both virtual and in-person)
+- Hardware wallet stipends for testing
+- Growth track to mid-level within 12-18 months"
+"(Senior)AI-Driven Software Engineer (Web3 Defi)","Location
+
+Remote +/- 3 hrs from CET timezone
+Full Time
+
+WHO WE ARE:
+
+BITKRAFT Ventures is a global leader in early-stage investments at the intersection of gaming, Web3, and immersive technologies. With over $1B in assets under management and 130+ portfolio companies, we empower visionary founders to shape the future of interactive entertainment and digital economies.
+
+We are a diverse, distributed team united by a shared mission: to identify and support innovative startups that will define the future of virtual worlds, economies, and experiences. At BITKRAFT, we focus on early-stage investments that fuel the convergence of physical and digital realities, a concept we call Synthetic Reality.
+
+We are excited to meet candidates who are passionate about shaping the future of gaming and immersive technologies and are eager to join our dynamic, fast-growing team.
+
+THE OPPORTUNITY
+
+We are looking for an experienced AI-Driven Software Engineer to join our distributed development team.
+
+You should have a strong software engineering background, ideally in a web-centric environment, and solid technical foundations. However, you should also have transitioned to AI-driven software development and adopted the mindset required to instruct and orchestrate AI-coding systems, versus writing code line by line.
+
+In this role, you will help design, build and maintain our in-house Operating Platform that leverages AI-based coding, autonomous agents, and intelligent workflows to automatically enrich datasets, optimize processes, and enable smarter decision-making across the company.
+
+Responsibilities
+Own full-stack features built primarily via AI-Development tools
+Define specs, requirements and interfaces for our platform
+Orchestrate multi-step agent workflows, including planning, development, testing and documentation
+Review, debug, and validate AI-generated code for production readiness
+Continuously improve prompts, tools, and agent strategies
+Requirements
+Full-stack development experience in production systems
+Experience with one or more DBMS or Datastore systems
+Experience on *Nix-based systems
+Experience with AWS
+Solid understanding of standard web technologies (HTML, CSS, JS)
+Shipped software where AI-Coding tools generated the majority of the code
+Comfortable understanding, debugging and reviewing code you did not write
+Strong systems thinking and failure-mode analysis
+High agency and low ego toward “ownership of code”
+Team-oriented attitude and familiarity and passion for working in distributed teams and in remote working environments
+Strong ambition and a growth mindset
+Candid and clear communication, with strong interpersonal and relationship-building skills
+Bonus
+Multi-agent workflows in real projects
+Prompt/version control for production systems
+Has opinions about when not to trust agents
+Additional Requirements
+Excellent command of English, both spoken and written
+The position will require some travel
+
+WHY JOIN BITKRAFT?
+
+At BITKRAFT, we foster a collaborative and entrepreneurial culture where innovation thrives. By joining our team, you will have the opportunity to work alongside passionate individuals who are driving the next wave of disruption in gaming, Web3, and immersive technologies.
+
+We offer competitive compensation and opportunities for personal and professional growth in a dynamic and supportive work environment."
+"(Senior)Frontend Engineer (Fintech?)","Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike—with a vision to help all businesses ‘go beyond’.
+
+The word ‘Pleo’ actually means ‘more than you’d expect’, and living by that mantra has been the secret to our success over the last 10 years.
+
+Now, we’re at a pivotal moment in our journey; every move we make has a direct impact on our 40,000+ customers, our business, and our collective success. We need people who take pride in uncovering customer needs, who turn complex problems into simple solutions, challenge the way things are done (respectfully), and always aim high. With great ambitions driving us forward, we can’t say we’ve got this whole thing figured out. And frankly, that’s half the fun! What we can say is that we’re a driven, progressive, and, importantly, a kind bunch of 850+ people from over 100 nationalities, all committed to delivering the future of business spending, together.
+
+About the role
+
+We're looking for a Senior Frontend Engineer to join our Team Backoffice Platform at Pleo. In this role, you'll help us make the backoffice an accessible platform for engineers to contribute to, help us set up frontend guidelines, and address tech debt. If you're excited about innovating the most important internal tool and are passionate about frontend, then this is the opportunity for you!
+
+Who you’ll be working with and reporting to
+You’ll report to an Engineering Manager and work closely with teams in Quality Engineering and Demo Experience. Our team of 3 is highly collaborative and dedicated to backoffice. You’ll also have the chance to partner with teams across the company to ensure success.
+
+What you’ll be doing 
+
+As a Senior Frontend Engineer, you will:
+
+Lead initiatives to improve consistency in the UI/UX of backoffice
+Collaborate with Backoffice Platform to create and improve features to support our users
+Analyze usage metrics and adoption in order to inform future product decisions
+Come opinionated but open to every meeting 
+Mentor and guide more junior frontend developers within the organization
+
+To put things into context, we currently have backoffice permissioning overhaul and external partner access on our roadmap. You can expect to work with the following tech stack and tools:
+
+Modern JavaScript, CSS and Web APIs
+Component-based, declarative UIs (we use React)
+CSS-in-JS (we use styled-components)
+Linting and testing frameworks (we use Jest + RTL and Vitest)
+Static types (we use TypeScript)
+Data fetching and mutations (we use tRPC, SWR)
+
+What you bring
+
+You’ll thrive in this role if you have:
+
+A solid understanding of react, typescript, and working with design systems.
+Strong communication skills and the ability to collaborate with stakeholders and engineers.
+A passion for solving problems in creative and innovative ways.
+Excellent time management and the ability to prioritize tasks effectively.
+Experience with grafana or a similar observability tool.
+The willingness to learn and teach others
+A background in B2B SAAS or FinTech
+
+Why is this role a good fit for you
+
+This role is a good fit for you if:
+
+Like working in an autonomous and trusted team
+Collaborate well with non-engineering users and engineers alike regardless of their specific role or level
+Stay engaged
+Love to learn
+
+This role is not a good fit for you if:
+
+Need everything documented in order to work
+Lack initiative unless you’re told exactly what to work on
+Gatekeep or enjoy working in a silo
+
+How you’ll develop in this role
+In your first 6 months at Pleo, you’ll:
+
+Lead a large scale project to drive impact in backoffice and operations.
+Collaborate with Team Backoffice Platform to reduce tech debt, improve auditability and facilitate backoffice technical contribution.
+Grow your skills in a platform team, taking on new challenges as the company continues to scale.
+
+We’re committed to helping you develop your career, whether that means taking on bigger projects, stepping into leadership, or acquiring new skills in engineering.
+
+The annual salary for this position varies based on your location:
+
+United Kingdom: £80,000 - £85,000
+Spain/Portugal: €95,800 - €101,800
+
+We’re happy to share more about our approach to pay and this range during your first call with us!
+
+Show me the benefits!
+💳 Your own Pleo card (no more out-of-pocket spending!)
+🍜 Lunch is on us for your work days - enjoy catered meals or receive a lunch allowance based on your local office 
+🏥 Comprehensive private healthcare - depending on your location, coverage options include Vitality, Alan or Médis 
+🌴 We offer 25 days of holiday + your public holidays
+🏠 For our Team, we offer both hybrid and fully remote working options
+🏖️ Option to purchase 5 additional days of holiday through a salary sacrifice
+❤️‍🩹 We use MyndUp to give our employees access to free mental health and well-being support with great success so far  
+👶 Paid parental leave - we want to make sure that we're supportive of families and help you feel that you don't have to compromise your family due to work 
+
+About your application
+Please submit your application in English; it’s our company language so you’ll be speaking lots of it if you join 💕
+We treat all candidates equally: If you are interested please apply through our application system - any correspondence should come from there! Our lovely support team isn't able to pass on any calls/ emails our way - and this makes sure that the candidate experience is smooth and fair to everyone 😊
+We can only achieve our goals if our team reflects the diversity of the world around us - and that starts with you, hitting apply, even if you are worried you might not tick all the boxes. We embrace and encourage people from all backgrounds to apply - regardless of race/ethnicity, colour, religion, nationality, gender, sex, sexual orientation, age, marital status, disability, neurodiversity, socio-economic status, culture or beliefs.
+When you submit an application we process your personal data as a data processor. Find out more about how your data is used in the FAQs section at the bottom of our jobs page."
+"(Senior)Software Engineer (Consulting?)","We are a global digital business services organization with a mission to improve the way people and companies work. Forever. Our Consulting, Technology and Learning teams design and deliver transformational digital products and experiences that add value to our clients’ businesses and to their customers’ lives.  
+
+Every day, across the world, our teams are pioneering faster, better ways to bring our client’s most exciting ideas to life. Are you ready to make an impact? 
+
+As a Senior Software Engineer at Emergn, you’ll help us shape Emergn’s exciting future and play an important role in our growth. 
+We want you to:
+Maintain, support, and further develop existing HCL Notes/Domino-based systems
+Work with multiple core business applications
+Fix bugs, implement new features, and update workflows
+Prepare and deploy new system releases (development, testing, production)
+Integrate existing systems with other platforms and services
+Act as the main technical contact for the client
+Maintain technical documentation and knowledge base
+This job might be for you if you have:
+Strong hands-on experience with HCL Notes / Domino (IBM / Lotus Notes)
+Experience maintaining legacy systems
+System analysis and system integration experience
+Basic front-end experience (JavaScript, HTML/DHTML, CSS, Ajax)
+Ability to work independently and take ownership of systems
+Proficiency in English and Latvian (written and verbal)
+Location requirement:
+Candidates must be located in Riga or nearby.
+What we offer:
+Salary from 3,000 – 4,000 EUR gross/month.
+Work within a dynamic international team of experts 
+Excellent opportunity for personal and professional development 
+Flexible work model and the freedom to choose the tools that suit you best – Mac or Windows
+Ability to work with modern technologies 
+Extensive catalogue of educational programs, the possibility of training and certification at the expense of the company 
+20 working days of vacation per year
+Life and disability insurance 
+Health insurance 
+Big free parking 
+Birthday gift"
+"(Senior)Full Stack Engineer (Node.js)","Company Description:
+
+We are looking for a Senior Full Stack Engineer to join one of our teams and help us build great products for our clients.
+
+Join a globally recognized company, where innovation meets impact. With a team of seasoned professionals and a culture built on excellence, we deliver top-tier solutions that shape industries and drive meaningful results.
+
+Become part of a company where your expertise is valued, your voice is heard, and your career is empowered!
+
+CUSTOMER
+
+Our client is a global content and information company shaping the future of media and data. With a century-long legacy and a strong focus on innovation, the team builds trusted experiences and tools that inform, inspire, and empower millions of people worldwide.
+
+Job Description:
+Design, develop, and maintain scalable applications across front-end and back-end layers
+Develop robust back-end services and APIs (REST/GraphQL) using Node.js
+Build responsive, user-friendly UIs using ReactJS
+Collaborate closely with data engineers and ML teams to integrate AI features and data-driven logic into the product
+Optimize application performance, scalability, and reliability in a cloud environment
+Implement best practices for security, CI/CD, testing, and code quality
+Work with product and design teams to translate business requirements into technical solutions
+Take ownership of features from ideation to deployment and monitoring in production
+Stay up to date with emerging technologies and contribute to technical decision-making and innovation within the team
+Qualifications:
+5+ years of professional experience with JavaScript, including modern frameworks and tools
+Expert proficiency in Node.js for scalable back-end services and APIs
+Expertise in ReactJS for modern, responsive front-end interfaces
+Experience designing and implementing Data APIs for efficient workflows
+Familiarity with VectorDB or similar vector databases for AI/ML applications
+Hands-on experience with AWS or GCP, including deployment and management
+Strong knowledge of RESTful APIs, microservices, and database systems (SQL/NoSQL)
+Upper-Intermediate level of spoken and written English
+
+WILL BE A PLUS
+
+Experience with Model Context Protocol (MCP) for AI model interactions
+Familiarity with workflow automation tools such as Langflow or n8n
+Knowledge of DevOps practices, CI/CD pipelines, or containerization (Docker, Kubernetes)
+Additional Information:
+
+PERSONAL PROFILE
+
+Strong problem-solving skills
+Attention to detail
+Ability to work independently
+Excellent communication and collaboration skills"
+"(Middle)Golang Developer (Consulting?)","About us
+
+Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/
+
+About the role
+
+Ruby Labs is looking for a strong Middle Golang Developer who will be responsible for building scalable and high-performing backend services. Develop, test, maintain, and improve our billing system. You will be a part of a cross-functional team, including engineers and product managers, focused on delivering results in a consistent, sustainable way. The successful candidate will have a passion for innovation, staying up-to-date with emerging technologies, and excellent communication and collaboration skills to work in a cross-functional team in a remote environment.
+
+Key Responsibilities
+
+Software Development: Participate in the solution development and maintenance of high-performance backend services and applications using Golang.
+
+Microservices Architecture: Architect, implement, and optimize microservices-based applications, ensuring scalability, reliability, and maintainability.
+
+Container Orchestration: Collaborate with the DevOps team to deploy and manage Golang applications in Kubernetes clusters using Helm for efficient package management.
+
+Database Management: Design and optimize database schemas, queries, and transactions, specifically using Postgres. Ensure data integrity, performance, and scalability. Additionally, use Redis to improve application performance.
+
+Billing System: Develop and enhance the billing system to ensure accurate and timely processing of financial transactions.
+
+Code Review: Conduct code reviews to ensure code quality, best practices, and adherence to coding standards.
+
+Collaboration: Collaborate within the cross-functional team, including DevOps, Backend and Frontend developers, QA and product management to understand requirements and deliver high-quality software solutions. Documentation: Maintain comprehensive documentation for code, architecture, and processes to facilitate knowledge transfer and onboarding of team members.
+
+Testing: Ensure decent Unit test coverage of the applications and participate in keeping the autotest suite up-to-date.
+
+Qualifications
+
+Experience: Minimum of 2-3 years of professional experience in development as a Golang developer, with a proven track record of delivering scalable and robust solutions.
+
+Golang: Expertise in Golang, with a deep understanding of its concurrency model, frameworks, and best practices.
+
+Microservices: Experience in designing, developing, and maintaining microservices architectures.
+
+Database Skills: Proficient in designing and optimizing databases, particularly with Postgres.
+
+Collaboration: Excellent communication skills and the ability to work collaboratively in a team environment.
+
+Problem-Solving: Strong problem-solving skills and the ability to think critically about complex technical challenges.
+
+Nice to have
+
+Billing Systems: Previous involvement in the development and maintenance of billing systems.
+
+Cloud solutions: Experience using AWS services.
+
+Database Skills: Experience using NoSQL databases.
+
+Location
+
+Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.
+
+Benefits
+
+Discover the perks of being part of our vibrant team! We offer:
+
+Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance.
+
+Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days.
+
+Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge.
+
+Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them.
+
+Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1tzxGX4Uu7Ts_HCLFXESKLnKaaBfVCPf1f9AYZPrkjJM/preview?tab=t.0
+
+Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!
+
+Interview Process
+
+After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:
+
+Recruiter Screening (40 minutes)
+
+Technical Interview (60 minutes)
+
+Final Interview (30 minutes)
+
+Life at Ruby Labs
+
+At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.
+
+This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.
+
+Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success."
+"(Mid/Senior)Python Engineer","About YLD:
+
+Our goal is to help our clients keep moving forward. We work with them to build the skills and capabilities they need to stay ahead of the competition, and we know our success only happens when they succeed. We’re a team of curious, talented people, and we’re committed to making YLD a place where great people want to work, grow, and stay. We’re a remote-first consultancy specialising in software engineering, product design, and data. Our teams are based across London, Lisbon, and Porto, and we create digital solutions that continue to deliver value long after our work is done.
+
+About the role:
+
+We’re looking for a Mid/Senior Software Engineer to join our client’s dynamic team and help build innovative, high-impact products. You’ll be curious, passionate, and driven, with a genuine enthusiasm for problem-solving and building scalable, resilient, and fault-tolerant systems.
+
+You’ll thrive in a fast-paced engineering environment, collaborating closely with your team to deliver outstanding results and exciting projects. 
+
+Your day-to-day responsibilities will look like this:
+
+Craft high-quality products: Develop new features, optimise existing systems, and drive client products forward.
+
+Build scalable cloud infrastructure: Work with AWS services to create resilient, performant solutions.
+
+Automate delivery: Implement and maintain CI/CD pipelines for seamless testing and deployment.
+
+Collaborate & innovate: Work closely with your team on engineering initiatives, pushing for continual improvement.
+
+Shape engineering practices: Influence team processes, promote best practices, and contribute to the wider department.
+
+Showcase your work: Participate in regular demos and presentations to share your achievements across the company.
+
+ 
+
+You’ll have the following skills and experience:
+
+Proven experience as a Python Backend Engineer, with hands-on experience in frameworks and tools such as Django, FastAPI, SQLAlchemy, and pytest.
+
+Experience setting up and managing CI/CD pipelines, including relevant tools and best practices.
+
+Familiarity with cloud platforms (AWS, Azure, GCP), containerisation technologies (Docker, Kubernetes), and orchestration platforms (e.g., AWS ECS).
+
+Knowledge of multiple protocols such as HTTP, GraphQL, and gRPC.
+
+Experience with databases (relational and schema-less), including PostgreSQL, Neo4j, and Snowflake.
+
+Strong focus on testing and quality, from unit tests to security, customer journey, and accessibility.
+
+Building high-performance, scalable applications and familiarity with performance monitoring tools.
+
+ 
+You should apply if you are:
+
+Self-motivated and proactive, always looking to grow and improve.
+
+Excellent communicator, able to explain technical ideas clearly to both technical and non-technical stakeholders.
+
+Detail-oriented and analytical, balancing innovation with practical technology choices.
+
+Collaborative and team-oriented, thriving in a dynamic environment.
+
+A strong advocate for diversity, fairness, and inclusion.
+
+Based in Portugal.
+
+ 
+
+What you’ll get in return
+
+As well as the chance to work with a forward-thinking, ethical, and fun group of people, you’ll also get:
+
+Company Private Health Care
+Enhanced fully paid maternity and paternity leave for up to 6 months
+25 days annual holiday (excluding Public Holidays)
+€2000 annual allowance for Training/Conferences
+€300 annual allowance for additional hardware
+Mental Health support: access to Spill app
+Meditation/Sleep support: Headspace or Calm app subscription
+Bonus (depending on Company's performance and results)
+Company laptop
+Generous referral schemes
+
+ 
+
+Our typical Recruitment Process looks like this:
+
+1st Interview with someone from the Talent team (30/45 mins)
+Technical Interview with our Senior Engineers (1h30)
+
+Get a glimpse of what it's like working at YLD! 🤳
+
+Check out our LinkedIn page
+
+ 
+
+We live and breathe our values, and know you will too:
+
+Growing every day
+Including everyone
+Relationships built on honesty and ethics
+Inspiring solutions
+Winning together
+
+We’re an equal-opportunity employer and value diversity in all its forms. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, pregnancy or maternity, age, marital status, or disability. We also offer a remote-first working environment, with flexible working and work–life balance as standard for all employees."
+"(Undefined)Frontend Web Developer (Percona)","Percona is looking for a Frontend Web Developer (Observability) to join its Open Source Software Development team.
+
+Together with a dedicated and distributed team of engineers, you will be contributing to further enhancing and extending the “Percona Monitoring and Management” (PMM) product. This position is mostly web frontend programming but understanding some Go will help you in a better understanding of the backend of our product. As an open source company, we use the power of existing open source projects and also make our own contributions to popular repositories. The work is challenging, but that’s why it’s also fun and rewarding!
+
+What You Will Do
+
+We are looking for a user experience focused developer to help present complex infrastructure management capabilities to our users in an easy to understand but feature-rich manner. You will build interfaces that are capable of managing single nodes all the way to thousands of systems so being able to think both large and small scale will be critical. Our PMM product has both a monitoring and management component, so you’ll need to work across team boundaries to ensure that our software works together to make the users’ lives easier.
+
+Your Experience
+
+Good command of TypeScript and React
+
+Experience with unit and integration testing
+
+Familiarity with build tools (vite, webpack, etc.)
+
+Knowledge of CSS frameworks
+
+Various charting libs (d3, Highcharts or similar)
+
+Good with Math and Statistics
+
+Agile practices (deliver working code regularly)
+
+UI/UX theory and practice
+
+Git and GitHub
+
+Docker or Podman experience
+
+Excellent written and verbal English
+
+What Will Make You Stand Out
+
+Having Grafana or Prometheus experience will be a huge plus
+
+Experience building web apps
+
+Experience with container orchestration systems such as Kubernetes or OpenShift
+
+Database experience in any of MongoDB, MySQL, PostgreSQL or Valkey/Redis
+
+Why Percona?
+
+At Percona, we believe an open world is a better world. Our mission is to enable everyone to innovate freely, by providing the best open source database software, support, and services. We make databases and applications run better through a unique combination of expertise and open source software built with the community for you. Our technical teams are experts in MySQL, MongoDB, PostgreSQL, and MariaDB.
+
+Percona is proud to be a remote-only and globally dispersed workforce – we have colleagues in more than 50 countries! We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard.
+
+Our staff receives generous benefits including flexible work hours and various paid time off programs, all your equipment for your remote office, funds for career development (external training, certifications, conferences), ongoing connectivity allowances, and the opportunity to participate in our equity incentive plan. We also have benefits that support a healthy work/life balance such as The Percona Adventure Team, Work-from-Anywhere, FlowDays, FryDays, and overall flexibility. We also support being socially responsible through our PAVE volunteering program and Women Transforming Technology.
+
+If you love the idea of working with a high-growth tech company that is one of the best in the business and known globally as a leader in the open-source database space, let’s talk!
+
+Connect with us and stay up to date on our latest news and developments by following us on LinkedIn and Twitter. We look forward to connecting with you!"
+"(Senior)Frontend Engineer","Are you ready to join our digital revolution journey? 
+
+
+At Aleph, we’re not just part of the digital advertising landscape—we’re shaping its future. Representing the world’s leading platforms, including TikTok, Amazon, Google, and nearly 55 others, we operate in 130+ markets across new and existing geographies.
+
+
+Our mission is to empower advertisers and brands to unlock the full potential of these platforms' advertising capabilities. By fostering long-lasting partnerships, we create limitless opportunities for people and businesses to advertise effectively at both local and global levels.
+
+
+With a presence spanning continents, Aleph offers you the chance to be part of a fast-growing, innovative team where your work makes a direct impact. If you’re ambitious, forward-thinking, and eager to thrive in a dynamic, global environment, Aleph is the perfect place to build your career.
+
+
+We are seeking an experienced Senior Frontend Engineer who specializes in designing, building, and operating high-performance, user-centric web applications. In this role, you will be a key contributor to our core platform, making critical architectural decisions and mentoring other engineers. You'll be responsible for ensuring our user interfaces are intuitive, responsive, and visually appealing, and that our entire ecosystem provides a seamless user experience. If you are passionate about modern JavaScript frameworks, UI/UX best practices, and the patterns that make web applications work, this is the role for you.
+
+
+We are seeking an experienced Senior Frontend Engineer who specializes in designing, building, and operating high-performance, user-centric web applications. In this role, you will be a key contributor to our core platform, making critical architectural decisions and mentoring other engineers. You'll be responsible for ensuring our user interfaces are intuitive, responsive, and visually appealing, and that our entire ecosystem provides a seamless user experience. If you are passionate about modern JavaScript frameworks, UI/UX best practices, and the patterns that make web applications work, this is the role for you.
+
+Responsibilities:
+
+Architect & Design: Design, develop, and maintain scalable and resilient front-end architectures and user interface components.
+Build & Implement: Write clean, high-performance code in JavaScript/TypeScript, utilizing modern frameworks like React, Angular, or Vue.js. Implement performance optimization (code splitting, lazy loading).
+Manage Infrastructure: Own and operate the front-end build and deployment pipelines (e.g., Webpack, Vite, CI/CD).
+Ensure Reliability: Implement robust error handling, testing strategies (unit, integration, E2E), and performance optimizations to guarantee a smooth user experience.
+Observability: Instrument applications with metrics, logs, and traces to ensure visibility and rapid troubleshooting in a complex distributed environment.
+Mentorship & Leadership: Mentor mid-level and junior developers, conduct code reviews, and champion best practices for front-end development.
+Collaboration: Work closely with product managers, backend engineers, and UI/UX designers to build cohesive and powerful features.
+
+
+Required Skills:
+
+5+ years of professional experience in front-end software development.
+Deep, hands-on experience with designing and building complex web applications and single-page applications (SPAs).
+Proven expertise with at least one major JavaScript framework, such as React, Angular, or Vue.js.
+Strong proficiency in JavaScript/TypeScript, HTML5, and CSS3, with a solid understanding of responsive design and cross-browser compatibility.
+Experience with state management libraries (e.g., Redux, MobX, NgRx) and asynchronous programming.
+Practical experience with front-end testing frameworks (e.g., Jest, React Testing Library, Cypress).
+
+
+
+Why Join Us?
+
+
+Aleph is a place of many cultures, perspectives, and talents. We support each other, creating an environment of giving and receiving. We value partnership and communication because we believe it takes a group of people to achieve great things. We are energized by our ever-changing industry, our curiosity keeps us learning and seeking out new opportunities.  
+
+
+We stay flexible and adaptable, and believe in moving with the speed of change. We encourage everyone to strive for more, providing our internal talent with growth opportunities and the ability to learn together. 
+
+
+“Share our similarities, celebrate our differences.” – M. Scott Peck
+
+
+#ALEPH"
+"(Senior)Frontend Engineer (Web3 Defi)","CryptoVault Labs is building the next generation of decentralized finance infrastructure. We're seeking a Senior Frontend Engineer to lead our dApp development. You'll work with React, TypeScript, and Web3.js to create seamless user experiences for token swaps, liquidity pools, and yield farming. Responsibilities include architecting component libraries, optimizing gas-efficient interactions, ensuring wallet integration across MetaMask, WalletConnect, and hardware wallets, and mentoring junior developers on best practices for blockchain UX.
+
+REQUIREMENTS:
+- 5+ years professional frontend experience
+- 3+ years working with blockchain/Web3 projects
+- Expert-level knowledge of React, TypeScript, and Web3.js
+- Experience with wallet integration and smart contract interaction patterns
+- Strong understanding of DeFi protocols and financial instruments
+- Knowledge of security best practices in blockchain applications
+- Excellent communication and leadership skills
+
+BENEFITS:
+- Competitive crypto-denominated salary ($150k-$200k equivalent)
+- 5% equity stake in the company
+- Remote-first, fully distributed team
+- Unlimited PTO
+- Health, dental, and vision insurance
+- $5,000 annual education and conference budget
+- Monthly team retreats in exotic locations
+- Hardware stipend ($2,000)
+- Crypto token bonuses based on performance"
+"(Junior)Frontend Developer (E-Commerce Startup)","TrendCart is a fast-growing fashion e-commerce platform looking for a Junior Frontend Developer to join our core product team. You'll build responsive product pages, shopping carts, and checkout flows using React and Next.js. Work alongside senior engineers in an inclusive environment focused on learning and growth. You'll gain hands-on experience with modern CSS frameworks, state management, API integration, and testing methodologies. You'll participate in code reviews, attend weekly tech talks, and have a dedicated mentor.
+
+REQUIREMENTS:
+- Completed coding bootcamp or Bachelor's degree in Computer Science or related field
+- Portfolio with 2-3 completed web projects (GitHub links required)
+- Solid understanding of HTML, CSS, and JavaScript fundamentals
+- Familiarity with React basics and Git version control
+- Strong problem-solving mindset and willingness to learn
+- Good communication skills and collaborative attitude
+- No prior professional experience required
+
+BENEFITS:
+- Salary: $65,000-$75,000
+- Comprehensive health, dental, vision, and mental health coverage
+- $2,000 annual professional development budget
+- Paid mentorship program with senior engineers
+- Home office setup allowance ($1,500)
+- 20 days PTO + 5 sick days
+- Quarterly team outings and social events
+- Free lunch every Friday
+- MacBook provided
+- Career growth roadmap with clear advancement paths"
+"(Middle)Frontend Specialist (FinTech Company)","NeoBank Solutions is transforming personal finance with our mobile-first banking app. We're hiring a UI/UX Frontend Specialist to translate design systems into pixel-perfect implementations. You'll work closely with Figma designs, implement accessibility standards, and collaborate with product, design, and backend teams to ship features users love. Responsibilities include component development, performance optimization, accessibility compliance, and establishing best practices for UI implementation.
+
+REQUIREMENTS:
+- 2-3 years of frontend development experience
+- Proven experience building financial or enterprise applications
+- Expert knowledge of Vue.js and component-based architecture
+- Proficiency with Tailwind CSS and CSS-in-JS solutions
+- Experience with Jest or similar testing frameworks
+- Strong understanding of WCAG 2.1 accessibility standards
+- Knowledge of responsive design and mobile-first approach
+- Familiarity with design system principles
+- Experience with REST APIs
+
+BENEFITS:
+- Base salary: $90,000-$120,000
+- 1-2% equity options
+- Flexible work hours and remote work available
+- Stock options vesting plan
+- Health, dental, vision insurance
+- $5,000 annual learning allowance
+- Annual wellness stipend ($1,500)
+- 25 days PTO
+- Paid parental leave
+- Gym membership reimbursement
+- Monthly tech talks and lunch-and-learns
+- Career development planning sessions"
+"(Middle)Frontend Developer","LocalHub is building community connection tools and we're hiring a Frontend Developer for our web platform. You'll develop and maintain features using modern JavaScript frameworks, write clean and maintainable code, collaborate with backend engineers, and participate in code reviews. Help us create intuitive interfaces that serve millions of local interactions. We value curiosity, problem-solving ability, and collaborative spirit across our distributed team.
+
+REQUIREMENTS:
+- 3+ years of professional frontend development experience
+- Strong proficiency in JavaScript and at least one modern framework (React, Vue, or Angular)
+- Experience with responsive design and cross-browser compatibility
+- Comfortable with Git and collaborative development workflows
+- Understanding of RESTful APIs and async programming
+- Experience with testing frameworks (Jest, Mocha, or similar)
+- Strong attention to detail and commitment to code quality
+- Self-directed with ability to work independently and ask for help when needed
+
+BENEFITS:
+- Competitive salary: $85,000-$125,000 (based on experience)
+- Comprehensive benefits package including health, dental, vision
+- 401(k) matching up to 5%
+- Flexible work schedule and remote-first policy
+- Unlimited PTO
+- $3,000 annual learning budget
+- Equipment allowance for home office
+- Quarterly team gatherings
+- Performance bonuses
+- Diverse and inclusive workplace"
+"(Junior)React Developer","HomeFlow Technologies is revolutionizing real estate with AI-powered property analytics. We're seeking a Junior React Developer to build our investor dashboard and property listing platform. You'll work with Next.js, TypeScript, and TailwindCSS to create data visualization components, real-time property feeds, and investor tools. Get hands-on mentorship from our senior engineering team while building features that impact thousands of real estate professionals.
+
+REQUIREMENTS:
+- Recent computer science graduate or coding bootcamp graduate
+- Solid understanding of React fundamentals and hooks
+- Basic knowledge of TypeScript
+- Familiarity with HTML, CSS, and responsive design
+- Git and GitHub experience
+- Problem-solving skills and ability to learn quickly
+- Passion for clean, readable code
+- Strong communication and team collaboration skills
+- No prior professional experience necessary—we value potential and eagerness to learn
+
+BENEFITS:
+- Salary: $58,000-$70,000
+- Guaranteed 1-on-1 mentorship program (10+ hours/week)
+- Health, dental, vision insurance
+- Home office setup budget ($1,200)
+- Company laptop (MacBook Pro)
+- Free access to premium development tools (Figma, GitHub, etc.)
+- 18 days PTO + 3 sick days + 5 personal days
+- Flexible hours and remote work
+- Professional development stipend ($1,500/year)
+- Growth path to mid-level developer within 18-24 months
+- Quarterly team lunches and social events"
+"(Senior)Product Engineer","Founded in 2017, Slite has become a key player in the knowledge base space, praised for our ease of use, attention to detail, and stellar customer experience. In 2025, we're expanding our vision with Super, our second product that makes AI ready-to-use at work by syncing company data and providing teams with powerful recipes and tools for immediate AI implementation.
+
+
+
+
+We foster a culture of deep trust and care while embracing direct feedback and pushing boundaries, driven by a doer mentality that delivers results no matter what. We take pride in exceptional craft across everything that touches our customers' experience. As a fully remote company, our team operates within EU timezones, helping us stay connected while reducing our CO2 footprint.
+
+
+
+
+We’re looking for a Senior Product Engineer to help shape the future of Slite and Super. As part of a small, fast-moving, fully remote team, you’ll ship features daily, work closely with design and product, and push prototypes into production so customers can try them immediately. We expect strong product thinking, solid engineering fundamentals, and the ability to turn ambiguous problems into polished, reliable experiences.
+
+
+
+
+What you'll do
+
+Build new features end-to-end, from quick prototypes to production-ready implementations.
+Add new data sources and tools to the Super engine.
+Extend the Slite editor with new blocks and capabilities.
+Develop complex React interfaces and flows, ensuring they stay fast, robust, and testable with mock data.
+Help bring the Super engine to new surfaces: web extension, desktop assistant, digest emails, and more.
+Contribute to our engineering processes that keep customers happy and the platform stable: firefighting rotation, pairing sessions, weekly engineering chats, and continuous improvement.
+
+
+
+
+Tech
+
+Slite’s editor is built on Slate.js with custom components and behaviours, real-time collaboration via operational transformation, and storage in MongoDB.
+The Super engine runs on LangGraph with custom tools and continuous indexing through our own connector package.
+Backend: Node.js, TypeScript, Datadog, Google Cloud, Kubernetes, Postgres, Redis.
+Frontend: React, TypeScript, internal component library, class-based CSS, and Storybook for component isolation.
+Linear, Slite, Slack, and GitHub.
+
+
+
+
+What we offer
+
+Challenges on a product you'll use daily
+Competitive salary and equity
+Remote-only environment built from day zero of the company
+2 Team off-sites per year
+Co-working office rental or home office budget
+2 months minimum of parental leave
+7 weeks of holidays per years"
+"(Undefined?)Full Stack Engineer","Who we are is what we do.
+
+Deel is the all-in-one payroll and HR platform for global teams. Our vision is to unlock global opportunity for every person, team, and business. Built for the way the world works today, Deel combines HRIS, payroll, compliance, benefits, performance, and equipment management into one seamless platform. With AI-powered tools and a fully owned payroll infrastructure, Deel supports every worker type in 150+ countries—helping businesses scale smarter, faster, and more compliantly.
+
+Among the largest globally distributed companies in the world, our team of 7,000 spans more than 100 countries, speaks 74 languages, and brings a connected and dynamic culture that drives continuous learning and innovation for our customers.
+
+Why should you be part of our success story?
+
+As the fastest-growing Software as a Service (SaaS) company in history, Deel is transforming how global talent connects with world-class companies – breaking down borders that have traditionally limited both hiring and career opportunities. We're not just building software; we're creating the infrastructure for the future of work, enabling a more diverse and inclusive global economy. In 2024 alone, we paid $11.2 billion to workers in nearly 100 currencies and provided healthcare and benefits to workers in 109 countries—ensuring people get paid and protected, no matter where they are.
+
+Our momentum is reflected in our achievements and customer satisfaction: CNBC Disruptor 50,  Forbes Cloud 100, Deloitte Fast 500, and repeated recognition on Y Combinator’s top companies list – all while maintaining a 4.83 average rating from 15,000 reviews across G2, Trustpilot, Captera, Apple and Google.
+
+Your experience at Deel will be a career accelerator. At the forefront of the global work revolution, you'll tackle complex challenges that impact millions of people's working lives. With our momentum—backed by a $17.3 billion valuation and $1 B in Annual Recurring Revenue (ARR) in just over five years—you'll drive meaningful impact while building expertise that makes you a sought-after leader in the transformation of global work.
+
+Get ready to:
+
+Be a part of a truly cross-functional team; Backend Engineers, Frontend Engineers, Product Teams, Designers and QA’s.
+
+Participate in product planning (From discovery all the way to deployment); We want your input at all stages of the Software Development Lifecycle!
+
+Collaborate! Our teams work together to develop robust new features, API’s, continuously improve our industry-leading products and find and fix any bugs at DeelSpeed.
+
+Ensure our customers receive a white-glove experience with our products!
+
+Fully own the development of features on the client, server, service, and database
+
+
+The bits and bytes that you’ll bring to your new team:
+
+You will develop high-quality, responsive web applications using TypeScript, Javascript, React, Express. Experience with NestJS, Vite, and Next.js is a plus.
+
+You will design and implement server-side APIs, data models, and business logic using mainly Express framework
+
+You will create client-side function-based React components, hooks, stories, and tests to interact with your server-side work
+
+You will create and optimize database schemas, queries, and interactions with Postgres.
+
+You will build reusable and modular components on both the front and back end that promote code reusability, maintainability, and scalability.
+
+You will perform thorough testing, debugging, and troubleshooting of applications to ensure high-quality deliverables.
+
+You will stay updated with emerging web development trends, frameworks, and best practices, and recommend improvements to enhance development processes.
+
+You will participate in code reviews and provide constructive feedback to team members to maintain code quality standards.
+
+You will communicate project progress, challenges, and solutions effectively to team members and stakeholders.
+
+Contribute to the continuous improvement of development processes, methodologies, and tools.
+You're the Engineer we're looking for if you:
+
+At least 4 years of Full-Stack experience, with a focus on TypeScript development.
+
+Expert in the art of designing, coding, testing, and maintaining applications using the tech listed above.
+
+Thrive in a collaborative, remote-first work culture where teamwork and camaraderie are key.
+
+Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.
+
+Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.
+
+Are passionate about solving customer problems with your coding superpowers, and are a natural at troubleshooting issues.
+
+Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.
+
+Obsess over details, and always keep the customer experience top of mind.
+
+Extra brownie points if you:
+
+Have experience with SaaS products running 24/7 on a major cloud vendor.
+
+Solid understanding of RESTful APIs, microservices architecture, and asynchronous programming.
+
+Experience with testing frameworks (Jest, Mocha, Chai, Storybook, React Testing Library) and automated testing methodologies (Cypress).
+
+Knowledge of containerization technologies (Docker, Kubernetes)
+
+Total Rewards
+
+Our workforce deserves fair and competitive pay that meets them where they are. With scalable benefits, rewards, and perks, our total rewards programs reflect our commitment to inclusivity and access for all. 
+
+Some things you’ll enjoy
+
+Stock grant opportunities dependent on your role, employment status and location
+
+Additional perks and benefits based on your employment status and country
+
+The flexibility of remote work, including optional WeWork access
+
+At Deel, we’re an equal-opportunity employer that values diversity and positively encourage applications from suitably qualified and eligible candidates regardless of  race, religion, sex, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, pregnancy or maternity or other applicable legally protected characteristics.
+
+Unless otherwise agreed, we will communicate with job applicants using Deel-specific emails, which include @deel.com and other acquired company emails like @payspace.com and @paygroup.com. You can view the most up-to-date job listings at Deel by visiting our careers page.
+
+Deel is an equal-opportunity employer and is committed to cultivating a diverse and inclusive workplace that reflects different abilities, backgrounds, beliefs, experiences, identities and perspectives.
+
+Deel will provide accommodations on request throughout the recruitment, selection and assessment process for applicants with disabilities. If you require accommodations, please inform our Talent Acquisition Team via this link and a team member will be in touch to ensure your equal participation. If you have difficulty accessing the form, please email at recruiting@deel.com.
+
+We use Covey as part of our hiring and/or promotional processes. As part of the evaluation process, we provide Covey with job requirements and candidate-submitted applications. Certain features of the platform may qualify it as an Automated Employment Decision Tool (AEDT) under applicable regulations. For positions in New York City, our use of Covey complies with NYC Local Law 144.
+
+We began using Covey Scout for Inbound on March 30, 2025.
+
+For more information about our data protection practices, please visit our Privacy Policy. You can review the independent bias audit report covering our use of Covey here"
+"(Middle)Frontend Engineer (Casino)","Join Innovecs Play on your way to adventures and professional growth in the ever-growing Game Development industry! We’re looking for a skilled Middle Frontend Engineer who is eager and can translate bold game ideas into high-quality code structure. 
+
+Every day we sharpen our skills in co-op quests, working side by side with proven leaders. We value teamwork, knowledge sharing, and curiosity that empower and motivate us to grow. 
+
+Joining the team, you will be involved in various aspects of game development, starting from the very concept through release and beyond. You will virtuously manipulate 2D and 3D dimensions, blaze a trail of user experience, and will juggle different solutions to realize novel game design ideas. We offer you the opportunity to break barriers, obtain new and strengthen existing expertise!
+
+About Innovecs Play  
+At Innovecs Games, we build, create, and deliver iGaming games for clients around the world, helping them do what they do best: engage audiences and support communities. We have a diverse group of 200 talented individuals with expansive knowledge and skill sets; we celebrate their unique talents and encourage personal growth and development.
+
+Our company strives for transparency and open communication, both within our team and with our 100+ happy clients. We respect our teammates and cheer for each other’s success. 
+
+Innovecs Play is a part of Innovecs, for the fifth year in a row, Innovecs is included in the Inc. 5000, the list of fastest-growing private companies in the US, and a ranking of the best global outsourcing service providers by IAOP. Recently, Innovecs was honored with the prestigious Global Good Awards for the Employee Engagement & Wellbeing, won gold at the Employer Brand Management Awards, and was included in the Global Top 100 Inspiring Workplaces Ranking.
+
+Our value to you:
+
+Flexible hours and remote-first mode,
+Competitive compensation,
+Complete Hardware/Software setup – anything you need for work,
+Open-door culture, transparent communication, and top management at a handshake distance,
+Health insurance, vacation, sick leaves, holidays, paid maternity/paternity leave,
+Access to our learning & development center: workshops, webinars, training platform, and edutainment events,
+Virtual team buildings and social activities.
+
+If you feel like you’re the perfect match for this role, drop us your CV! 
+
+There are no limitations, no barriers when the right people are on your way — apply for the vacancy and succeed with us!"
+"Lead Product Engineer","Superside is hiring a Lead Product Engineer to build AI-powered tools that transform how creative work is produced at scale. On our AI Consulting team, you’ll design, prototype, and ship automation solutions that embed AI directly into real creative workflows for enterprise customers.
+
+
+This is a senior, hands-on IC role. You’ll lead through technical ownership, partnering closely with AI engineers, designers, and consultants to turn emerging AI capabilities into reliable, production-ready tools used by global brands.
+
+
+Superside is hiring a Lead Product Engineer to build AI-powered tools that transform how creative work is produced at scale. On our AI Consulting team, you’ll design, prototype, and ship automation solutions that embed AI directly into real creative workflows for enterprise customers. This is a senior, hands-on IC role. You’ll lead through technical ownership, partnering closely with AI engineers, designers, and consultants to turn emerging AI capabilities into reliable, production-ready tools used by global brands.
+
+What you’ll do
+
+Own the design and delivery of AI-powered automation tools that streamline creative production for enterprise teams.
+Translate customer problems into scalable technical solutions in close collaboration with consultants and stakeholders.
+Integrate AI models including LLMs, text-to-image, and text-to-voice into production-grade creative tools.
+Architect and build microservice-based systems that balance speed, scalability, and maintainability.
+Prototype rapidly, then harden successful proofs-of-concept into reliable production applications.
+Partner with designers and product managers to deliver seamless integrations with tools like Figma and Adobe.
+Identify repeatable patterns across engagements and help codify them into reusable solutions and platforms.
+
+
+What you’ll need to succeed
+
+6+ years of experience building enterprise-grade software in fast-paced environments such as startups, scaleups, or consulting.
+Strong full-stack engineering background, with deep experience in TypeScript; React and/or Python experience is a plus.
+Hands-on experience with AWS services such as S3, RDS, and Lambda.
+Proven experience integrating AI APIs (e.g., OpenAI, Fal.ai) into real production systems.
+Ability to move confidently from experimentation to production, managing trade-offs and constraints.
+Experience integrating with creative tools (Figma APIs, Adobe Suite) is a strong advantage.
+Clear English communication skills and comfort working in customer-facing, cross-functional teams.
+Curiosity and adaptability, with a strong drive to build AI-powered products that reshape creative workflows."
+"(Middle)Frontend Engineer (Miners/Blockchain)","What awaits you here:
+As a Pool Frontend Developer, you will help build and evolve Braiins Pool web applications used by miners and operators worldwide. You’ll work in a product team that values clean UI, strong performance, and reliable data visualization. AI tools are expected to be part of your daily workflow, used responsibly and effectively.
+Responsibilities:
+Build and maintain Pool frontend features with React, TypeScript, and Sass, focusing on clarity, performance, and reliability.
+Collaborate with product, design, and backend teams to define requirements and deliver high‑quality UI/UX.
+Maintain and improve component quality through review, refactoring, and shared patterns.
+Write tests and participate in CI/CD processes to keep releases stable.
+Contribute to technical decisions, documentation, and continuous improvement of frontend practices.
+Use AI tools responsibly to accelerate development while maintaining high code quality.
+🔎 We are looking for someone with:
+2+ years of professional experience in frontend development.
+Experience with React, TypeScript & CSS (Sass)
+Strong ownership, good communication, and ability to deliver independently.
+Previous experience with designing of FE architecture, upholding of code quality standards and testing practices.
+Drive to learn, improve, and mentor or be mentored in a collaborative team.
+
+💪 Preferred Skills:
+Experience with data‑heavy UI and visualization libraries.
+Setup of new FE projects, local development including GitLab pipelines.
+Understanding of performance profiling, accessibility and internationalization.
+Experience with monitoring and error reporting tools (e.g., Sentry).
+
+🏖 What we offer to you:
+Full-time position with flexible working hours.
+Both possibilities to work as an Employee or Freelance.
+Indefinite agreement.
+For employees, 5 weeks of vacation and 3 sick days.
+Company events and occasional Braiins brunches in the office.
+Relaxing room, a shower, and a parking spot.
+Modern offices in the center of Prague, Czech Republic—the heart of Europe.
+Work on long-term projects in an interesting area of the Bitcoin industry.
+
+🔥 We will love you even more if
+You are interested in cryptocurrencies or have active experience with them.
+You are interested in new technologies and development procedures.
+You are from Prague or its surrounding area.
+
+Previous experience with mobile development."
+"(Undefined)DevOps Engineer","We are looking for a DevOps Engineer to take full in-house ownership of our DevOps infrastructure and processes.
+
+The role is focused on production stability, SLA compliance, automation, observability, and incident management for platform and analytics services.
+
+Requirements
+
+🧭 What makes you a great match:
+4+ years of experience in DevOps / Infrastructure / SRE
+Hands-on Cloudflare experience (WAF, Rules, Workers)
+Strong Linux (Ubuntu/Debian) and networking fundamentals
+Terraform and Ansible in production
+CI/CD: GitLab CI, Jenkins
+Monitoring: Prometheus, Grafana
+Logging: OpenSearch / Elasticsearch
+Scripting: Bash, Python
+Git workflow best practices
+Admin-level understanding of PostgreSQL, MySQL, MongoDB
+English: Upper-Intermediate+
+Nice to Have:
+Docker / Kubernetes / Helm
+Trino (Presto), Hive Metastore
+Hadoop ecosystem or migrations to S3-compatible storage
+Big Data infrastructure exposure
+📋 Your daily adventures:
+
+Cloudflare
+
+Ownership of Cloudflare configuration and change management
+Redirect Rules, Workers, KV
+WAF and bot protection
+SSL and network-related changes
+
+CI/CD & Automation
+
+CI/CD pipelines maintenance and development (GitLab CI, Jenkins)
+Infrastructure provisioning via Terraform and Ansible
+Deployments and rollback management
+
+Infrastructure
+
+Linux administration (Ubuntu/Debian)
+DNS, routing, iptables
+VPN (OpenVPN)
+Infrastructure on Hetzner and DigitalOcean
+
+Observability & Incidents
+
+Monitoring (Prometheus, Grafana)
+Logging (OpenSearch)
+Uptime and SLA control
+Incident response for critical issues, on-call participation
+
+Analytics & Documentation
+
+Infrastructure support for Data / Analytics teams (including Airflow)
+Maintain infrastructure documentation, runbooks, and incident workflows
+
+Benefits
+
+💸 Flexible payment options: choose the method that works best for you;
+🧾 Tax assistance included: we handle part of your taxes and provide guidance on the local setup;
+🎁 Financial perks: Bonuses for holidays, B-day, work milestones and more - just to show we care;
+📈 Learn & grow: We cover courses and certifications — and offer real opportunities to grow your career with us;
+🥐 Benefit Сafeteria: Choose what suits you — sports, language courses, therapy sessions, and more;
+🎉 Stay connected: From team-building events to industry conferences — we bring people together online, offline, and on stage;
+💻 Modern Equipment: We provide new laptops along with essential peripherals like monitors and headphones for a comfortable workflow;
+🕘 Your schedule, your rules: Start your day at 9, 10, or even 11 — we care about results, not clock-ins."
+"(Junior/Medior)Software Engineer (Full Stack, Junior/Medior)","Payflip is looking for a Junior/Medior Software Engineer to join our Product team. What you’ll bring is a baseline skill in fullstack software development, but what matters most is your eagerness to learn and grow with Payflip.
+
+🌟 Our Product team
+
+We're building our Product team at Payflip for the long run, and are looking for entry level engineers who want to play a role in growing our salary platform, whilst also growing with Payflip themselves.
+
+Our current Product team consists of multiple squads that autonomously own the full lifecycle of the product, pushing it from discovery to production. You'll work together with other experienced engineers, PMs, and the CTO to deliver on an exciting product roadmap.
+
+The tech stack at Payflip to achieve this consists of multiple modern technologies. Where core components in our stack are:
+
+React
+
+Node.js (NestJS)
+
+GraphQL
+
+MongoDB
+
+🧑‍💻 About You
+
+Excited already? You'd fit in great if most of this sounds like you:
+
+Proficiency with at least one of our core technologies
+
+Curiosity to explore tech outside of your current comfort zone, setting out a learning path to master it and communicating it to the people coaching & mentoring you.
+
+Passionate about building products, shipping qualitative features to production with confidence.
+
+High intrinsic motivation to learn from others what it takes to become the best
+
+Self-starting and entrepreneurial, kickstarting yourself and pulling in others at the right time
+
+Even if your experience is light, we'd like to learn what makes you hungry to build and what you did in the past (side-projects, experiments, open source contributions, courses)
+
+Fluent in English.
+
+👋 About us
+
+Payflip's mission is to become the new salary partner, truly making salaries work.
+
+By empowering both employees and HR teams, we:
+
+Create transparency and trust around compensation
+
+Drive financial literacy and wellbeing
+
+Make Belgium’s workforce more resilient, engaged, and prosperous
+
+So that in the future, employees get the best out of their salaries, HR teams shift focus from admin to people, and salaries are seen as a tool for growth (not frustration).
+
+We are a fresh, fast-growing startup with a happy bunch of software engineers, product specialists, business developers & reward specialists.
+
+Becoming part of the Payflip team means that you join a close-knit team where you will take up solid responsibilities. Let’s say that a Payflip’er smells the opportunity of ownership from miles away!
+
+💜 Payflip's Culture
+
+Our company culture revolves around 3 pillars:
+
+Transparency
+
+Eagerness to learn
+
+Ownership
+
+We are 100% transparent with everything that happens in the company. We tell each other everything. There is not even one Google Drive file in our archive that is not accessible for all.
+
+We invest in self-improvement. That is why you have at least 1 day per month that is dedicated to learning. Together with the other members of the reward hub, you try to investigate an interesting market trend or to fix a company inefficiency you choose yourself, with the methodology of your preference.
+
+As we are a small team, we’d better all make our hands dirty if we want to step up our game. In order to thrive, you will have to come out of your comfort zone and take up responsibilities, just like all of us.
+
+At Payflip, everyone is an entrepreneur!
+
+And because we walk the talk, each team member receives meaningful equity of the company (see below). Growing together at its best! 
+
+💰 What's in it for you
+
+We want to be as close to our mission and therefore provide the most optimized salary package in the Belgian SME market. You will receive...
+
+Competitive cash salary
+
+Meaningful equity
+
+Top-notch flexible reward plan
+
+Alan healthcare package
+
+Monizze meal vouchers
+
+Remote work as much as you prefer
+
+Home office compensation
+
+Optimised bonus schemes
+
+Payflip uses an open salary grid and for this vacancy we're aiming to hire for the A1/A2/B1 range. Want to dig deep? Here you'll find a more detailed description of our levels in engineering and their traits.
+
+💬 Our hiring process for engineers
+
+We aim to hire the best of the best at Payflip, and throughout the process we want to see candidates bring their best selves to the table. We'll dive into your previous track record and the expertise you're eager to bring, but also collaborate together with the product team to simulate the real job as close as possible.
+
+After a quick informal chat with the CTO our interview is composed of 3 rounds:
+
+Screening call with two people from the product team (30 to 45 min, video call)
+
+A pair programming session with two engineers, where you are in the driver seat. You'll work in the Payflip codebase, on a real problem not solving a shady algorithm problem. (1h to 1h30, video call + remote coding)
+
+In a final stage we'll be going into a behavioral interview where (together with a founder) we'll discuss your leadership vision, collaboration style and ambitions for the job at Payflip (45m to 1h, office)"
+"(Junior)Python Developer","Improvado is an AI-powered, unified platform designed for marketing teams in medium to large-scale enterprises and agencies, who are looking to automate complex marketing intelligence and reporting to make decisions with ease. Improvado gathers, organizes, and untangles marketing data to deliver instant insights through BI and AI, helping to eliminate complexity, delivering laser-focused insights to optimize budgets, enhance campaign efficiency and marketing ROI.
+
+As a rapidly scaling Series A startup that raised $34 million in funding, we're proud to partner with globally recognized brands such as ASUS, Docker, Activision, H&R Block, and many others. Our diverse team of curious, open, and hard-working individuals is committed to cultivating a fast-paced, agile culture that values personal and professional growth.
+
+About the role
+
+We have an incredibly talented team working really hard to make our product helpful to our clients businesses and we are looking for people who are willing to join our team working hard on cutting edge of technology to deliver amazing products for the world famous brands.
+Responsibilities
+Build and maintain back-end for Improvado's marketing analytics SaaS platform (including architectural improvements regarding scalability, reliability and performance)
+Design and Implement new functionalities
+Write tests using Pytest and other libraries
+Write clean, maintainable, and well-documented code
+Optimize performance of services to ensure fast and responsive user experience
+Troubleshoot and debug issues as they arise
+Collaborate with the front-end team to integrate with the server-side logic
+Participate in code reviews and contribute to overall codebase improvements
+Participate in Agile development methodology, including daily stand-ups, sprint planning, and retrospectives
+Participate in knowledge sharing with the team
+Requirements
+Basic knowledge of Python or 1 year in a role focused on Python backend development (perfectly with Django framework)
+Higher education (3rd-4th year students) in the field of Computer Science
+Comfortable working with Linux
+Knowledge of Databases (PostgreSQL, Clickhouse, NoSQL databases)
+Ready to work with the team distributed among different timezones
+Strong mathematical background and Software Engineering is your true passion
+Curious and always learning upcoming best practices
+Nice to have
+Experience in high-load/BigData, and REST projects
+Knowledge and experience in implementation of algorithms and design patterns
+Knowledge of such conceptions as OOP, Solid, DDD
+Experience with PostgreSQL, Redis, RabbitMQ, Amazon Web Services, Docker, and Kubernetes.
+Experience with asyncio, or similar frameworks
+Ability to work in a Continuous Integration environment
+What We Offer
+Fully remote position (with flexible working hours)
+Strong product/market fit: marketing data product for US-based enterprises
+20 wokring days of PTO per year
+Optional relocation to Latin America after successful completion of the probationary period
+Extremely fun & open startup environment
+Professional development reimbursement
+Chance to get the company's stock options in the future"
+"(Senior/Staff)Frontend Engineer (+5 years)","Veeam, the #1 global market leader in data resilience, believes businesses should control all their data whenever and wherever they need it. Veeam provides data resilience through data backup, data recovery, data portability, data security, and data intelligence. Based in Seattle, Veeam protects over 550,000 customers worldwide who trust Veeam to keep their businesses running. Join us as we move forward together, growing, learning, and making a real impact for some of the world’s biggest brands. The future of data resilience is here - go fearlessly forward with us.
+
+About the Role
+
+We are the leader in Kubernetes Backup and Disaster Recovery. Veeam Kasten, our data management platform purpose-built for Kubernetes, provides enterprise operations teams with an easy-to-use, scalable, and secure system for backup and restore, disaster recovery, and application mobility with unparalleled operational simplicity. 
+
+We are looking for a multi-talented UI Designer / Frontend Developer to contribute to our Veeam Kasten data management platform, purpose-built for Kubernetes. 
+
+What You’ll Do
+Owning meaningful parts of the product. You will design, build, and test significant features in the Kasten product related to backup and recovery of Kubernetes applications, databases, and storage systems
+Preparing UI/UX designs in Figma as well as designing mockups and conducting UX testing
+Using a breadth of skills at every level of development - from initial design to UX wireframing, CSS styling, REST APIs, and JS development for new features
+Automating code quality with unit tests and end-to-end UI tests 
+Technologies You’ll Work With
+
+VueJS, TailwindCSS, TypeScript, Kubernetes, Helm, Docker, Golang, Bash, Git. Our team is passionate about code quality, extensibility, coding standards, testing, and automation. 
+
+What You’ll Bring
+5+ years of professional experience developing, testing, and debugging Javascript/TypeScript
+Your work or portfolio visible online (e.g. portfolio site, CodePen account, or GitHub)
+At least one year of experience with a reactive framework such as React, Angular or VueJS
+Visual design experience and the ability to create visually appealing interfaces
+Ability to implement designs in mobile-responsive CSS and experience with a CSS preprocessor such as SCSS
+Experience creating design systems and building reusable web components
+Strong computer science fundamentals (data structures, REST, asynchronous logic)
+Bonus Skills
+Experience creating and maintaining design systems in Figma
+VueJS  and TailwindCSS experience
+Experience with applying accessibility (a11y) standards
+What You’ll Get 
+26 paid days off annually, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares
+Paid parental, maternity, and paternity leave
+Fully covered family medical plan, dental, rehab, and vaccinations
+Life, critical illness, and disability insurance
+Employer pension contribution via PPK
+Monthly Edenred allowance of 450 PLN for meals
+MultiSport card fully covered by Veeam, giving access to sports facilities nationwide
+Up to 12 free therapy sessions annually, plus legal and financial advice
+Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops and learning events like our annual Global Day of Learning
+
+Please note: If the applicant is permanently present outside of Poland, Veeam reserves the right to refuse to consider the application for a job. Remote job is only possible in case the employee is located in Poland.
+
+#LI-TK1
+#Remote
+
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
+
+Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice.  
+
+The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes. 
+
+By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice.
+
+By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment."
+"(Junior)Front-End Developer (Vue.js)","We are looking for a Front-End Developer. You will work with a professional and experienced team on an exciting and complex project using Vue 3, Vite, and modern web technologies. The project follows Clean Architecture principles and includes CI/CD pipelines, Sentry for error tracking, automated testing (Unit and Integration), and Storybook for component documentation and development. You will have the opportunity to shape front-end architecture, improve performance, and collaborate closely with cross-functional teams to deliver a seamless user experience.
+
+
+About the product: It is a global streaming platform where users can find interesting streamers, send messages, and chat via video. Our mission is to help people overcome loneliness and boredom by creating a space for real-time interaction and positive emotions. With high-quality video streaming, 24/7 live events, and seamless online chats, we ensure a top-notch user experience without any ads. Our team is growing, with exciting opportunities to influence the product and tackle complex challenges, including AI integration and data-driven tasks. Our goal is to reach the top 5 streaming products
+
+
+We are looking for a Front-End Developer. You will work with a professional and experienced team on an exciting and complex project using Vue 3, Vite, and modern web technologies. The project follows Clean Architecture principles and includes CI/CD pipelines, Sentry for error tracking, automated testing (Unit and Integration), and Storybook for component documentation and development. You will have the opportunity to shape front-end architecture, improve performance, and collaborate closely with cross-functional teams to deliver a seamless user experience. About the product: It is a global streaming platform where users can find interesting streamers, send messages, and chat via video. Our mission is to help people overcome loneliness and boredom by creating a space for real-time interaction and positive emotions. With high-quality video streaming, 24/7 live events, and seamless online chats, we ensure a top-notch user experience without any ads. Our team is growing, with exciting opportunities to influence the product and tackle complex challenges, including AI integration and data-driven tasks. Our goal is to reach the top 5 streaming products
+
+In this role, you will
+
+Develop and maintain high-quality, scalable front-end solutions using Vue 3 and Vite
+Collaborate with designers, back-end developers, and product managers to implement new features and enhance user experience
+Work closely with Android and iOS teams to ensure seamless integration of front-end components with mobile applications
+Ensure code quality by writing unit and integration tests and actively participating in code reviews
+Document components and features in Storybook, maintaining clear and up-to-date usage examples
+Optimize application performance and contribute to improving overall front-end architecture
+Troubleshoot and resolve issues promptly, ensuring application stability and reliability
+Participate in team discussions, proposing and implementing innovative solutions and improvements
+
+
+It’s all about you
+
+1+  year of experience in front-end development 
+Proficiency in HTML5, CSS3, JavaScript
+Hands-on experience with Vue 3, including Router and Pinia, REST API
+Experience writing and maintaining unit and integration tests
+Excellent collaboration and communication abilities
+Ability to adapt and learn quickly in a dynamic environment
+Intermediate English or higher
+
+
+Would be a plus
+Experience with Storybook for component documentation and development
+Experience working with modern tools and technologies (e.g., Vite, Vuetify)
+Experience with SASS or SCSS and BEM methodology
+
+
+What we offer
+
+Care and support: 
+20 paid vacation days, 15 sick days, and 6 additional days off for family events
+100% medical insurance coverage
+Sports and equipment reimbursement
+Team building events, corporate gifts, and stylish merch
+Financial and legal support
+Position retention and support for those who join the Armed Forces of Ukraine
+Participation in social initiatives supporting Ukraine
+Comfortable working environment:
+Work from our Kyiv hub or remotely with a flexible schedule 
+Modern equipment or depreciation of your own tools
+Investment in your future:
+Collaborate with a highly-skilled team of Middle & Senior professionals, sharing practical cases and expertise in the social networking niche
+70% of our heads and leads have grown into their roles here – so can you!
+Performance-oriented reviews and Individual Development Plans (IDPs)
+Reimbursement for professional courses and English classes
+Corporate library, book club, and knowledge-sharing events
+
+
+Hiring process
+
+Intro call
+Tech Interview
+Final Interview
+Reference check
+Offer"
+"(Junior)Frontend Developer (React.js)","We are looking for skillful Web Frontend Developers to join one of our teams working with US clients - referrals from the high-end American IT market.
+
+
+Our tech stack is built around React, Node.js, and TypeScript. We are working with well-established companies and sometimes startups in their early stages (MVPs), which makes the job full of diversity and exciting challenges while crafting cutting-edge solutions.
+
+
+Enjoy the flexibility of working within the Polish time zone and collaborate with clients from diverse industries such as FinTech, SportsTech, MedTech, and many others.
+
+
+Salary: PLN 6.000 - 9.000 + VAT (B2B); PLN 6.000 - 7.400 brutto (UZL)
+
+
+Salary: PLN 6.000 - 9.000 + VAT (B2B); PLN 6.000 - 7.400 brutto (UZL)
+
+
+Salary: PLN 6.000 - 9.000 + VAT (B2B); PLN 6.000 - 7.400 brutto (UZL)
+
+
+Offer summary:
+
+Required skills: 1 year of commercial experience within web development, understanding of basic JS concepts, TypeScript, basic experience with React.js, knowledge hungry
+Offer: B2B/UZL, paid days off, 100% remote (or hybrid/onsite - as you prefer), Polish time zone, flexible hours, full-time position, long-term contract, Scrum Teams
+Perks and Benefits: 750 PLN / quarter for health insurance and sports, Mentoring Program, individual Career Path, and more
+Tools you'll use: Apple MacBook Pro, Slack, GSuite, GitHub, Jira, Coda, Miro
+
+
+Your future tasks and duties:
+
+Develop and maintain React.js applications
+Implement responsive interfaces with attention to design details and user experience
+Write clean, maintainable code following team standards
+Participate in code reviews - giving and receiving feedback constructively
+Collaborate with designers, developers, QA, and product owners to deliver features
+Document your work and contribute to team knowledge base
+Continuously expand technical skills with mentor support
+
+
+About you - Tech skills & Experience:
+
+1 year of commercial experience in web development
+Strong JavaScript fundamentals and TypeScript knowledge
+Hands-on experience with React.js ecosystem (hooks, state management)
+REST API integration and basic build tools configuration
+Uses AI coding assistants for learning, exploration, and productivity while critically evaluating outputs
+Open-minded to new challenges (TypeScript, React frameworks like Next.js or Remix, etc.) with company coherency in mind
+
+
+About you - Soft skills:
+
+Genuine interest in understanding user needs and the business value of your work
+Proactive in communication - shares progress and asks for help when needed
+Embraces feedback as learning opportunities and comfortable admitting knowledge gaps
+Open-minded about learning new frameworks and technologies
+Interest in backend technologies and aspiration towards fullstack development
+Comfortable working in Agile/Scrum environments
+English B2+ for international collaboration
+Polish C1 for daily team communication
+Ready to work closely with mentors while gradually building independence
+
+
+Nice to have:
+
+Modern meta-frameworks (for example: TanStack Start, Next.js, Remix, SvelteKit)
+Cloud services understanding (AWS, serverless)
+Docker basics, CI/CD pipelines
+Testing frameworks (Jest, React Testing Library)
+
+
+
+
+
+Meaningful projects, top-notch experts and value-driven workplace
+Sound good?
+Apply now!"
+"(Founding)Frontend Software Engineer","About Gladia
+
+Founded in 2022 by Jean-Louis Queguiner (ex-OVHCloud) and Jonathan Soto (ex-MIT/Sigfox), Gladia builds best-in-class speech AI tools that empower businesses to deliver faster, more accurate, and innovative communication solutions worldwide.
+
+Headquartered in vibrant tech hubs like Paris and New York City, Gladia is leading the charge in speech AI innovation. In under two years, we’ve grown exponentially, now serving over 150,000 users and 700 enterprise clients—including industry leaders like Attention, Circleback, Method Financial, Aircall and VEED.IO.
+
+Our API supports advanced speech recognition and analysis in over 100 languages, setting a new standard for speed and accuracy across customer support solutions, voice agents, meeting assistants, and more.
+
+Backed by world-class investors like Sequoia Capital, New Wave, and XAnge, we recently raised $16M in Series A funding—bringing our total funding to $20.3M. This investment powers our mission to build the ultimate AI audio infrastructure for leading platforms across the globe.
+
+We are looking for our first dedicated Front End Engineer, who will take full ownership of Gladia’s web application. The role is based in France.
+
+You will be the frontend reference in a mostly backend-oriented team, driving the vision, quality, and evolution of the user interface.
+
+Role
+Your responsibilities
+
+Take end-to-end ownership of the Gladia web app: architecture, performance, DX, and delivery quality
+
+Design and build product- and user-driven interfaces, translating high-level product briefs into functional solutions
+
+Transform business and product needs into clear, efficient, and scalable web experiences
+
+Collaborate closely with backend and product teams
+
+Define and maintain strong frontend standards (testing, performance, best practices)
+
+Actively contribute to UX and interface decisions, with a strong product and user focus
+
+Occasionally handle small backend tasks when needed (full-stack friendly mindset)
+
+
+This is a key role with direct impact on the product, customers, and team execution speed.
+
+Profile
+Experience & background
+
+3 to 8 years of experience in frontend development
+
+Experience in a product-driven startup environment
+
+Comfortable operating in fast-moving, not-yet-fully-structured contexts
+
+
+Must-have technical skills
+
+Strong proficiency in TypeScript
+
+Solid experience with React and Next.js (routing ideally React Router framework, server-side rendering, delivery-oriented mindset)
+
+Knowledge of modern frontend tools: Tailwind, Vite, Playwright (or equivalent testing tools)
+
+Ability to design and build pages and flows autonomously, translating product intent into interfaces
+
+Frontend-focused or full-stack profiles welcome, as long as small backend tasks can be handled if needed
+
+
+Nice to have
+
+Founding engineer or first frontend hire experience
+
+Experience contributing to product strategy or design decisions in a small, fast-moving team
+
+
+Soft skills & values
+
+High autonomy: able to move forward, make decisions, and prioritize
+
+Strong ownership: responsible for what you build, long-term
+
+Customer-centric mindset: usage and value before technology
+
+Efficiency & pragmatism: favors simple, fast, and smart solutions (jugaad mindset)
+
+What Gladia offers
+
+The compensation offered is based on seniority and experience and would typically range from €50k to €65k in base salary for roles based in France + BSPCE
+
+Full remote policy (based in France) with team gathering in Paris every 1.5 months or work from our amazing offices & rooftop in the heart of Paris (Sentier)
+
+Lunch vouchers (approx. 200€/month)
+
+An allowance of 360 euros/year for your sports activities
+
+An allowance of 300 euros for the adaptation of your workstation
+
+A health insurance (100% coverage) and a pension contract for you & your family
+
+Please submit your application in English. It’s our company language so you’ll be speaking lots of it if you join.
+
+We treat all candidates equally - if you’re interested please apply through our careers portal."

@@ -1,0 +1,1 @@
+ALTER TABLE `job_ads` ADD `createdAt` text DEFAULT (CURRENT_TIMESTAMP);

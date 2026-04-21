@@ -1,0 +1,17 @@
+// Project-local debug tasks
+//
+// For more documentation on how to configure debug tasks,
+// see: https://zed.dev/docs/debugger
+[
+  {
+    "label": "Attach to Workers Runtime",
+    "adapter": "JavaScript",
+    "type": "node",
+    "request": "attach",
+    "port": 3456,
+    "cwd": "/",
+    "resolveSourceMapLocations": null,
+    "attachExistingChildren": false,
+    "autoAttachChildProcesses": false,
+  },
+]

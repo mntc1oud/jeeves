@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US" -O firefox.tar.xz
+tar -C /opt -xf firefox.tar.xz && rm firefox.tar.xz
+ln -s "/opt/firefox/firefox" /usr/bin/firefox

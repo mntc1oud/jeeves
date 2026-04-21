@@ -1,0 +1,22 @@
+:root {
+    font-family:
+        "IBM Plex Sans", system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: var(--tg-color-scheme, normal);
+    background-color: var(--tg-theme-bg-color, black);
+    color: var(--tg-theme-text-color, white);
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        color: var(--tg-theme-text-color, black);
+        background-color: var(--tg-theme-bg-color, white);
+    }
+}

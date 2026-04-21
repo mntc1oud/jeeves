@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [[ "$PROD" == "true" ]]; then
+    ./workerd-linux-64 serve config.capnp &
+    firefox \
+        --headless \
+        --remote-debugging-port 9223
+else
+    caddy reverse-proxy --from :9222 --to 127.0.0.1:9223 \
+        --change-host-header &
+    firefox \
+        --headless \
+        --remote-debugging-port 9223
+fi

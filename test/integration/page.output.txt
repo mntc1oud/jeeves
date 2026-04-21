@@ -1,0 +1,156 @@
+New
+DevSecOps Engineer
+Who We Are:
+Alpaca is a US-headquartered self-clearing broker-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our&nbsp;
+recent Series D funding round
+brought our total investment to over $320 million, fueling our ambitious vision.
+Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 9 million brokerage accounts.
+Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of&nbsp;
+opening financial services to everyone on the planet
+. We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.
+Alpaca is proudly backed by top-tier global investors, including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Unbound, SBI Group, Derayah Financial, Elefund, and Y Combinator.
+
+Our Team Members:
+We're a dynamic team of 230+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!
+We're searching for passionate individuals eager to contribute to Alpaca's rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.
+Your Role:
+We are seeking a DevSecOps Engineer to own the intersection of security, reliability, and DevOps. This role will design and implement resiliency across our cloud platform and CI/CD pipelines, embed “security as code,” help lead incident response for high-severity outages, and partner with engineering teams to enable safe, fast delivery at scale.&nbsp;
+You will be hands-on and strategic: automating remediation, hardening deployments, owning observability, and driving measurable reductions in security/infra related incident impact. This role reports to the CISO, with a dotted line into Engineering and works closely with DevOps, Product, and Engineering leadership.
+The Security Team is 100% distributed and remote.&nbsp;
+
+Things You Get To Do:
+The core responsibilities of the DevSecOps Engineer role are focused on embedding security throughout our infrastructure and software development lifecycle, enhancing cyber resilience, and driving a strong security culture.
+Security Engineering &amp; Automation:
+Secure SDLC Integration:
+Embed security into CI/CD pipelines by implementing and owning secure controls, including Infrastructure as Code (IaC) scanning, Software Composition Analysis (SCA), secrets checks, policy-as-code, and deployment guardrails.
+Vulnerability Management:
+Lead the process of vulnerability and patch management, automating discovery, prioritization, and remediation across all cloud workloads and their dependencies.
+Platform Hardening:
+Strengthen cloud and Kubernetes environments through secure configurations, network segmentation, workload identity management, and automated compliance against industry standards (e.g., CSA Star).
+Supply Chain Security:
+Advance the security of the software supply chain, focusing on generating Software Bill of Materials (SBOMs), artifact signing, dependency governance, and implementing integrity controls.
+Secure Patterns:
+Create secure "paved roads" for developers, providing hardened IaC modules, templates, tooling, and comprehensive documentation.
+Resilience, Detection, and Response:
+Cyber Resilience:
+Own and validate cyber-resiliency standards (secure failover, secure backups, Disaster Recovery playbooks) through secure rehearsals to ensure both the availability and integrity of systems and data
+Security Deployment:
+Develop secure deployment patterns, such as canary rollouts, automated safe rollbacks, and guardrails to minimize blast radius
+Detection &amp; Forensics:
+Improve detection and response capabilities by building high-signal alerts, enhancing forensic logging, and providing robust security telemetry. Partner with the SecOps team on incident handling
+Offensive Security:
+Alongside the Security team, help manage offensive security engagements (penetration testing, red team, bug bounty) and ensure findings are fed directly into remediation pipelines and risk prioritization
+Architecture, Identity, and Governance:
+Design &amp; Threat Modeling:
+Conduct security reviews and threat modeling for all new services and major architecture changes to ensure designs are secure-by-default
+Identity &amp; Access Management (IAM):
+Strengthen the identity and access model by enforcing the principle of least privilege, strong authentication, and secure secrets lifecycle management
+Compliance &amp; Audit:
+Support compliance and audit readiness by operationalizing security controls, producing necessary evidence, and maintaining the health of these controls
+Leadership &amp; Culture:
+Security Champion:
+Champion a strong security culture by partnering with DevOps and Engineering teams to uplift secure coding practices and guide risk-based decision-making
+Metrics &amp; Reporting:
+Define key security performance indicators (KPIs) such as time to detect, time to remediate, exposure scores, and percentage of infrastructure covered by automated controls, and report measurable improvements to leadership
+
+
+Who You Are (Must-Haves):
+Excited about Alpaca’s mission and what we’re building
+5+ years of experience across DevSecOps, security engineering, or cloud security in a modern cloud-native environment
+Strong hands-on experience with CSPs, Kubernetes, Terraform, and container security
+Deep understanding of secure CI/CD, including IaC security, dependency/SCA, secrets scanning, and policy-as-code
+Solid background in identity &amp; access security
+Experience automating vulnerability management and patching workflows across cloud and container ecosystems
+Strong familiarity with detection engineering, logging/telemetry, and partnering in incident response
+Proficient in a scripting/programming language (Python, Go, or similar) for automation and security tooling
+Comfortable working cross-functionally with DevOps and Engineering teams, explaining risk in practical terms, and influencing secure design
+Comfortable participating in on-call rotations
+
+
+
+Who You Might Be
+(
+Nice-to-Haves):&nbsp;&nbsp;
+Experience securing financial, trading, or other highly regulated platforms
+Knowledge of regulatory frameworks common in fintech (SOC 2, ISO 27001, PCI)
+Experience with supply-chain security (SBOMs, Sigstore, artifact signing) or software integrity programs
+Familiarity with offensive security, bug bounty triage, or penetration testing
+Security or cloud certifications (CISSP, OSCP, GIAC, GCP/AWS Security)
+Bachelor's degree in Computer Science, Information Security, or equivalent experience.
+Business acumen to be able to balance tradeoffs between stakeholders, technology feasibility and budget constraints
+How We Take Care of You:
+Competitive Salary &amp; Stock OptionsCompetitive Salary &amp; Stock Options
+
+Health Benefits
+New Hire Home-Office Setup: One-time USD $500New Hire Home-Office Setup: One-time USD $500
+
+Monthly Stipend: USD $150 per month via a Brex CardMonthly Stipend: USD $150 per month via a Brex Card
+
+Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.
+
+Recruitment Privacy PolicyRecruitment Privacy Policy
+
+Create a Job Alert
+Interested in building your career at Alpaca ? Get future opportunities sent straight to your email.
+Apply for this job
+
+indicates a required field
+
+
+
+
+
+
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+
+
+
+
+
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Alpaca ’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+www.dol.gov/ofccp
+.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Powered by

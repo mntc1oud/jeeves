@@ -1,0 +1,151 @@
+Email,Text
+Reject,"Dear Jennifer Rodriguez,
+Thank you for your interest in the Full Stack Developer position at CloudVault Technologies. We appreciate the time you took to apply and the effort you put into your application materials.
+After careful review of all submissions, we have decided to move forward with candidates whose experience more closely aligned with the specific requirements of this role. While your background demonstrates strong capabilities in React and backend systems, our hiring team felt that other applicants were a better fit for the position at this time.
+We genuinely appreciate your interest in joining our team. Your qualifications are impressive, and we encourage you to apply for future openings that may be a better match for your skill set and experience. We were particularly impressed by your GitHub portfolio and contributions to open-source projects.
+If you have any questions about your application or the selection process, please don't hesitate to reach out.
+Best of luck with your job search!
+Sincerely,
+David Park
+Engineering Lead
+CloudVault Technologies"
+RejectOffer,"Dear Jennifer,
+Following up on your recent application, I wanted to reach out personally and share some additional thoughts.
+While we moved forward with another candidate for the Full Stack Developer position, your application genuinely stood out to our team. Your experience with modern web technologies and demonstrated problem-solving skills through your open-source contributions are exactly the kind of strengths we value at CloudVault Technologies.
+We'd hate to lose the opportunity to work with you. We currently have several other positions open that might be an excellent fit for your background:
+
+DevOps Engineer – Focusing on cloud infrastructure and CI/CD pipeline optimization
+Frontend Engineer – Specializing in React and TypeScript development
+Technical Support Engineer – Working closely with our enterprise clients on integration issues
+
+I'd encourage you to check out these openings on our careers page or feel free to reach out directly if any of these roles spark your interest. I'd be happy to discuss how your skillset might align with any of these positions.
+We're growing rapidly and always looking for talented developers who are passionate about building scalable solutions. I hope you'll consider exploring these opportunities with us.
+Looking forward to potentially working together soon!
+Best regards,
+David Park
+Engineering Lead
+CloudVault Technologies
+david.park@cloudvault.com
+(555) 287-4921"
+InviteInterview,"Dear Jennifer,
+I'm delighted to inform you that we would like to invite you to interview for the Frontend Engineer position at CloudVault Technologies!
+We were impressed by your technical expertise, particularly your proficiency with React and TypeScript, as well as your commitment to clean, scalable code demonstrated through your open-source contributions. We believe your skills and experience would be a valuable addition to our development team.
+Interview Details:
+Position: Frontend Engineer
+Date & Time: Wednesday, March 12th, 2025 at 2:00 PM EST
+Duration: Approximately 60 minutes
+Format: Video interview via Zoom
+What to Expect:
+You'll have the opportunity to meet with our Senior Frontend Developer and a member of our product team. We'll discuss your background, your approach to solving frontend challenges, and your experience working with modern web technologies. You're also welcome to ask us any questions about the role, our team, and our company culture.
+Please confirm your availability by replying to this email or scheduling directly through this link: [interview scheduling link]. If the proposed time doesn't work for you, let me know and we can find an alternative that suits your schedule better.
+If you have any questions before the interview, feel free to reach out. We're looking forward to learning more about you!
+Best regards,
+David Park
+Engineering Lead
+CloudVault Technologies
+david.park@cloudvault.com
+(555) 287-4921"
+InviteCodeAssignment,"Dear Jennifer,
+Thank you for your enthusiasm about the Frontend Engineer position at CloudVault Technologies! As the next step in our interview process, we'd like you to complete a code assignment that will help us better understand your approach to problem-solving and code quality.
+Assignment Overview:
+You'll be tasked with building a React-based task management application with the following requirements:
+
+Create a component that allows users to add, edit, and delete tasks
+Implement filtering functionality (All, Active, Completed)
+Store task data in local state (no backend API required)
+Use modern CSS or a CSS framework (Tailwind, Material-UI, etc.) for styling
+Ensure the code is clean, well-documented, and follows React best practices
+
+Submission Guidelines:
+
+Time Limit: 3-4 hours (no need to rush—quality over speed)
+Deadline: Please submit by Friday, March 7th, 2025 at 11:59 PM EST
+Deliverables: Push your code to a GitHub repository and send us the link
+Setup: Use Create React App or your preferred setup tool
+
+How to Submit:
+Reply to this email with:
+
+A link to your GitHub repository
+Instructions on how to run the project locally
+Any notes about your approach or decisions
+
+Questions?
+If you need clarification on the assignment requirements or run into any technical issues, don't hesitate to reach out. I'm happy to help!
+We're excited to see what you create. Best of luck, and we look forward to reviewing your work!
+Best regards,
+David Park
+Engineering Lead
+CloudVault Technologies
+david.park@cloudvault.com
+(555) 287-4921"
+CompanyNameNeuralWave,"Subject: Your Application to NeuralWave AI
+
+Dear Michael Thompson,
+
+Thank you for your interest in the Machine Learning Engineer position at NeuralWave AI. We appreciate the time you took to apply and the effort you put into your application materials.
+
+After careful review of all submissions, we have decided to move forward with candidates whose experience more closely aligned with the specific requirements of this role. While your background demonstrates solid foundational knowledge in Python and TensorFlow, our hiring team felt that other applicants were a better fit for the position at this time.
+
+We genuinely appreciate your interest in joining our team. Your qualifications are impressive, and we encourage you to apply for future openings that may be a better match for your skill set and experience.
+
+If you have any questions about your application or the selection process, please don't hesitate to reach out.
+
+Best of luck with your job search!
+
+Sincerely,
+
+Amanda Chen
+Head of Machine Learning
+NeuralWave AI"
+CompanyNameEchoHub,"Subject: Your Application to EchoHub Solutions
+
+Dear Sarah Patel,
+
+Thank you for your interest in the Backend Engineer position at EchoHub Solutions. We appreciate the time you took to apply and the effort you put into your application materials.
+
+After careful review of all submissions, we have decided to move forward with candidates whose experience more closely aligned with the specific requirements of this role. While your background demonstrates strong capabilities with Java and microservices architecture, our hiring team felt that other applicants were a better fit for the position at this time.
+
+We genuinely appreciate your interest in joining our team. Your qualifications are impressive, and we encourage you to apply for future openings that may be a better match for your skill set and experience.
+
+If you have any questions about your application or the selection process, please don't hesitate to reach out.
+
+Best of luck with your job search!
+
+Sincerely,
+
+Robert Kwon
+Senior Engineering Manager
+EchoHub Solutions"
+YCombinatorJobsMessage,"Hi Alex,
+
+Sarah Jenkins from Stellar AI has sent you a message regarding your application for Full Stack Engineer.
+
+Message:
+'Hi Alex, thanks for applying to Stellar AI! I really liked your background in distributed systems and would love to chat more about the role. Are you free for a brief intro call later this week?'
+
+View message and reply:
+https://www.workatastartup.com/candidates/messages
+
+Best,
+The Work at a Startup Team"
+"NotRejectNorInvite","Dear Marcus,
+
+We're excited to reach out! We've reviewed your resume and identified several positions at our organization that align perfectly with your skills and experience.
+
+Based on your background in Full Stack Development and Cloud Architecture, we believe you'd be an excellent fit for the following roles:
+
+• Senior Software Engineer - Remote, $120K-$150K
+• Lead Backend Developer - Austin, TX Office, $115K-$145K
+• Cloud Infrastructure Architect - Hybrid (Seattle), $130K-$165K
+
+Each of these positions offers competitive benefits including comprehensive health insurance, 401(k) matching with 4% company contribution, $2,500 annual professional development budgets, and flexible work arrangements.
+
+We'd love to discuss how your expertise could contribute to our team. Please reply to this email or visit our careers portal at careers.nexuspro.io to learn more about any of these opportunities.
+
+Best regards,
+Sarah Chen
+Senior Talent Acquisition Manager
+Nexus Pro Solutions
+talent@nexuspro.io
+1-844-NEXUS-PRO"

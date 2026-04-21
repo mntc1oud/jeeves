@@ -1,0 +1,73 @@
+/**
+ * For more details on how to configure Wrangler, refer to:
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jeeves-brain",
+  "main": "workers/bot/index.ts",
+  "compatibility_date": "2025-09-27",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "./dist/client",
+    "not_found_handling": "single-page-application",
+  },
+  "observability": {
+    "enabled": true,
+  },
+  "vars": {
+    "REJECT_MESSAGE": "Полагаю, вы ошиблись резиденцией и приняли её за ту, где ваше присутствие требуется. Это не так. Всего доброго.",
+    "PROCESSING_MODEL": "google/gemma-4-26b-a4b-it",
+    "CREATIVE_MODEL": "deepseek/deepseek-v3.2",
+    "TG_ENABLE_API": true,
+  },
+  "ai": {
+    "binding": "AI",
+    "remote": false,
+  },
+  "send_email": [
+    {
+      "name": "EMAIL",
+    },
+  ],
+  "queues": {
+    "producers": [
+      {
+        // Well, LLMs can sometimes output not so correct data
+        // this greek word describes truth, but some philosphers argue that isn't
+        // about absolute truth, but about some version of reality
+        "queue": "aletheia",
+        "binding": "aletheia",
+      },
+    ],
+    "consumers": [
+      {
+        "queue": "aletheia",
+      },
+    ],
+  },
+  "kv_namespaces": [
+    {
+      "binding": "state",
+      "id": "5fc87487e3cb4e12962aea27d85cd1be",
+    },
+  ],
+  "triggers": {
+    // wednesday and friday
+    "crons": ["0 6 * * 1"],
+  },
+  "d1_databases": [
+    {
+      "binding": "memory",
+      "database_name": "bot_memory",
+      "database_id": "aa299061-7dc2-4a99-9631-209a53a204f1",
+      "migrations_dir": "drizzle",
+    },
+  ],
+  "vectorize": [
+    {
+      "binding": "awaitedJobs",
+      "index_name": "job_queries",
+    },
+  ],
+}

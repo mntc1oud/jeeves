@@ -1,0 +1,25 @@
+main nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 19px;
+}
+
+button {
+    padding: 10px 30px;
+
+    font-weight: 500;
+    font-family: "IBM Plex Sans";
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+@media (prefers-color-scheme: light) {
+    button {
+        background-color: #fafafa;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        color: black;
+    }
+}
