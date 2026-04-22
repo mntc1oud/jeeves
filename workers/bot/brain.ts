@@ -85,7 +85,7 @@ export class Brain {
   }
 
   async off() {
-    // it will pull only properties, not methods
+    // it will get only properties, not methods
     for (const [key, value] of Object.entries(this)) {
       if (value) {
         await env.state.put(key, JSON.stringify(value));
@@ -281,7 +281,7 @@ export class Brain {
         );
 
         try {
-          // send to LLM via queue, just not to make wait telegram longer
+          // send to LLM via queue, I don't want to make wait telegram any longer
           await env.aletheia.send("extractWithLLM");
         } catch (err) {
           console.log({
