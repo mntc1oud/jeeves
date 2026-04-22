@@ -102,18 +102,15 @@ export default {
       console.log({
         deleteResp: vecMutations,
       });
-
-      if (mail.text && env.TG_ENABLE_API) {
-        await new TelegramBot(env.TG_BOT_TOKEN).send(
-          "sendYouGotMail",
-          mail.text,
-        );
-      }
     } else {
       console.log({
         message: "Didn't find any query matches with this content",
         content: mail.text,
       });
+    }
+
+    if (mail.text && env.TG_ENABLE_API) {
+      await new TelegramBot(env.TG_BOT_TOKEN).send("sendYouGotMail", mail.text);
     }
 
     await msg.forward(env.FORWARD_EMAIL);
@@ -136,7 +133,6 @@ export default {
     try {
       await new TelegramBot(env.TG_BOT_TOKEN).send("extractWithLLM");
     } catch (err) {
-      console.log("real!");
       console.log(err);
     }
 
