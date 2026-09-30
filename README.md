@@ -1,4 +1,4 @@
 ## Jeeves 
 *a butler for job seeking*
 
-job tracking has been disabled for now, so it only can repost emails in a Telegram chat
+job tracking has been disabled for now. It only can repost emails in a Telegram chat with the user
